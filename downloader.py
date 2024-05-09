@@ -12,9 +12,9 @@ def get_papers_from_cvf(wd, save_dir):
         "WACV2023": "https://openaccess.thecvf.com/WACV2023",
         "WACV2024": "https://openaccess.thecvf.com/WACV2024",
         #
-        "CVPR2021": "https://openaccess.thecvf.com/CVPR2021?day=all",
-        "CVPR2022": "https://openaccess.thecvf.com/CVPR2022?day=all",
-        "CVPR2023": "https://openaccess.thecvf.com/CVPR2023?day=all",
+        # "CVPR2021": "https://openaccess.thecvf.com/CVPR2021?day=all",
+        # "CVPR2022": "https://openaccess.thecvf.com/CVPR2022?day=all",
+        # "CVPR2023": "https://openaccess.thecvf.com/CVPR2023?day=all",
         #
         "ICCV2021": "https://openaccess.thecvf.com/ICCV2021?day=all",
         "ICCV2023": "https://openaccess.thecvf.com/ICCV2023?day=all",
@@ -39,6 +39,7 @@ def get_papers_from_cvf(wd, save_dir):
                 for e in author_links[2 * i + 1].find_elements(By.XPATH, './/a[not(parent::div[@class="link2"])]')
             ]
             info = (title.text, authors, links)
+
             print(f"[{i}/{len(titles)}] {info[0]}")
             paper_infos.append(info)
         print("The number of total accepted paper titles : ", len(paper_infos))
@@ -68,7 +69,7 @@ def get_papers_for_cvpr2024(wd, save_dir):
             authors = [s.strip() for s in paper_row.find_element(By.TAG_NAME, "i").text.split("·")]
             info = (title, authors)
 
-            print(f"[{i}/{len(paper_rows)}] {info}")
+            print(f"[{i}/{len(paper_rows)}] {info[0]}")
             paper_infos.append(info)
         print("The number of total accepted paper titles : ", len(paper_infos))
 
@@ -81,6 +82,7 @@ def main():
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
     chrome_options.add_experimental_option("excludeSwitches", ["enable-logging", "disable-popup-blocking"])
     wd = webdriver.Chrome(options=chrome_options)
 

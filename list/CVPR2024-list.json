@@ -1,5 +1,34 @@
 [
   [
+    "Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation",
+    [
+      "Ba Hung Ngo",
+      "Nhat-Tuong Do-Tran",
+      "Tuan-Ngoc Nguyen",
+      "Hae-Gon Jeon",
+      "Tae Jong Choi"
+    ]
+  ],
+  [
+    "ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting",
+    [
+      "Yankai Jiang",
+      "Zhongzhen Huang",
+      "Rongzhao Zhang",
+      "Xiaofan Zhang",
+      "Shaoting Zhang"
+    ]
+  ],
+  [
+    "GAFusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection",
+    [
+      "Xiaotian Li",
+      "Baojie Fan",
+      "Jiandong Tian",
+      "Huijie Fan"
+    ]
+  ],
+  [
     "Can I Trust Your Answer? Visually Grounded Video Question Answering",
     [
       "Junbin Xiao",
@@ -96,16 +125,6 @@
       "Jingjing Chen",
       "Richang Hong",
       "Yu-Gang Jiang"
-    ]
-  ],
-  [
-    "ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting",
-    [
-      "Yankai Jiang",
-      "Zhongzhen Huang",
-      "Rongzhao Zhang",
-      "Xiaofan Zhang",
-      "Shaoting Zhang"
     ]
   ],
   [
@@ -403,16 +422,6 @@
       "Jingchao Peng",
       "Lujian Yao",
       "Kaijie Zhao"
-    ]
-  ],
-  [
-    "Learning CNN on ViT: A Hybrid Model to Explicitly Class-specific Boundaries for Domain Adaptation",
-    [
-      "Ba Hung Ngo",
-      "Nhat-Tuong Do-Tran",
-      "Tuan-Ngoc Nguyen",
-      "Hae-Gon Jeon",
-      "Tae Jong Choi"
     ]
   ],
   [
@@ -2327,15 +2336,6 @@
       "Markus Gross",
       "Andreas Festag",
       "Alois Knoll"
-    ]
-  ],
-  [
-    "GAFusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection",
-    [
-      "Xiaotian Li",
-      "Baojie Fan",
-      "Jiandong Tian",
-      "Huijie Fan"
     ]
   ],
   [

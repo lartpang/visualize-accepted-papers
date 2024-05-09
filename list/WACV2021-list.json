@@ -1,0 +1,5384 @@
+[
+  [
+    "Towards Contextual Learning in Few-Shot Object Classification",
+    [
+      "Mathieu Page Fortin",
+      "Brahim Chaib-draa"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Fortin_Towards_Contextual_Learning_in_Few-Shot_Object_Classification_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Multimodal Humor Dataset: Predicting Laughter Tracks for Sitcoms",
+    [
+      "Badri N. Patro",
+      "Mayank Lunayach",
+      "Deepankar Srivastava",
+      "Sarvesh",
+      "Hunar Singh",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Patro_Multimodal_Humor_Dataset_Predicting_Laughter_Tracks_for_Sitcoms_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Patro_Multimodal_Humor_Dataset_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Self-Supervised Learning for Domain Adaptation on Point Clouds",
+    [
+      "Idan Achituve",
+      "Haggai Maron",
+      "Gal Chechik"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Achituve_Self-Supervised_Learning_for_Domain_Adaptation_on_Point_Clouds_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Achituve_Self-Supervised_Learning_for_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2003.12641"
+    ]
+  ],
+  [
+    "Efficient 3D Video Engine Using Frame Redundancy",
+    [
+      "Gao Peng",
+      "Bo Pang",
+      "Cewu Lu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Peng_Efficient_3D_Video_Engine_Using_Frame_Redundancy_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Exploiting the Redundancy in Convolutional Filters for Parameter Reduction",
+    [
+      "Kumara Kahatapitiya",
+      "Ranga Rodrigo"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kahatapitiya_Exploiting_the_Redundancy_in_Convolutional_Filters_for_Parameter_Reduction_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kahatapitiya_Exploiting_the_Redundancy_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1907.11432"
+    ]
+  ],
+  [
+    "Benchmark for Evaluating Pedestrian Action Prediction",
+    [
+      "Iuliia Kotseruba",
+      "Amir Rasouli",
+      "John K. Tsotsos"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kotseruba_Benchmark_for_Evaluating_Pedestrian_Action_Prediction_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Regional Attention Networks With Context-Aware Fusion for Group Emotion Recognition",
+    [
+      "Ahmed Shehab Khan",
+      "Zhiyuan Li",
+      "Jie Cai",
+      "Yan Tong"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Khan_Regional_Attention_Networks_With_Context-Aware_Fusion_for_Group_Emotion_Recognition_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Auxiliary Tasks for Efficient Learning of Point-Goal Navigation",
+    [
+      "Saurabh Satish Desai",
+      "Stefan Lee"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Desai_Auxiliary_Tasks_for_Efficient_Learning_of_Point-Goal_Navigation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Desai_Auxiliary_Tasks_for_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Cross-Modality 3D Object Detection",
+    [
+      "Ming Zhu",
+      "Chao Ma",
+      "Pan Ji",
+      "Xiaokang Yang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_Cross-Modality_3D_Object_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.10436"
+    ]
+  ],
+  [
+    "Variational Prototype Inference for Few-Shot Semantic Segmentation",
+    [
+      "Haochen Wang",
+      "Yandan Yang",
+      "Xianbin Cao",
+      "Xiantong Zhen",
+      "Cees Snoek",
+      "Ling Shao"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Variational_Prototype_Inference_for_Few-Shot_Semantic_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wang_Variational_Prototype_Inference_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Zero-Shot Recognition via Optimal Transport",
+    [
+      "Wenlin Wang",
+      "Hongteng Xu",
+      "Guoyin Wang",
+      "Wenqi Wang",
+      "Lawrence Carin"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Zero-Shot_Recognition_via_Optimal_Transport_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wang_Zero-Shot_Recognition_via_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Multi-Modal Reasoning Graph for Scene-Text Based Fine-Grained Image Classification and Retrieval",
+    [
+      "Andres Mafla",
+      "Sounak Dey",
+      "Ali Furkan Biten",
+      "Lluis Gomez",
+      "Dimosthenis Karatzas"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mafla_Multi-Modal_Reasoning_Graph_for_Scene-Text_Based_Fine-Grained_Image_Classification_and_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mafla_Multi-Modal_Reasoning_Graph_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.09809"
+    ]
+  ],
+  [
+    "PI-Net: Pose Interacting Network for Multi-Person Monocular 3D Pose Estimation",
+    [
+      "Wen Guo",
+      "Enric Corona",
+      "Francesc Moreno-Noguer",
+      "Xavier Alameda-Pineda"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Guo_PI-Net_Pose_Interacting_Network_for_Multi-Person_Monocular_3D_Pose_Estimation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Size-Invariant Detection of Marine Vessels From Visual Time Series",
+    [
+      "Tunai Porto Marques",
+      "Alexandra Branzan Albu",
+      "Patrick O'Hara",
+      "Norma Serra",
+      "Ben Morrow",
+      "Lauren McWhinnie",
+      "Rosaline Canessa"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Marques_Size-Invariant_Detection_of_Marine_Vessels_From_Visual_Time_Series_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Temporal Stochastic Softmax for 3D CNNs: An Application in Facial Expression Recognition",
+    [
+      "Theo Ayral",
+      "Marco Pedersoli",
+      "Simon Bacon",
+      "Eric Granger"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ayral_Temporal_Stochastic_Softmax_for_3D_CNNs_An_Application_in_Facial_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ayral_Temporal_Stochastic_Softmax_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.05227"
+    ]
+  ],
+  [
+    "Scale Aware Adaptation for Land-Cover Classification in Remote Sensing Imagery",
+    [
+      "Xueqing Deng",
+      "Yi Zhu",
+      "Yuxin Tian",
+      "Shawn Newsam"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Deng_Scale_Aware_Adaptation_for_Land-Cover_Classification_in_Remote_Sensing_Imagery_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Deng_Scale_Aware_Adaptation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2012.04222"
+    ]
+  ],
+  [
+    "Intro and Recap Detection for Movies and TV Series",
+    [
+      "Xiang Hao",
+      "Kripa Chettiar",
+      "Ben Cheung",
+      "Vernon Germano",
+      "Raffay Hamid"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hao_Intro_and_Recap_Detection_for_Movies_and_TV_Series_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hao_Intro_and_Recap_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Supervoxel Attention Graphs for Long-Range Video Modeling",
+    [
+      "Yang Wang",
+      "Gedas Bertasius",
+      "Tae-Hyun Oh",
+      "Abhinav Gupta",
+      "Minh Hoai",
+      "Lorenzo Torresani"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Supervoxel_Attention_Graphs_for_Long-Range_Video_Modeling_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wang_Supervoxel_Attention_Graphs_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "SoFA: Source-Data-Free Feature Alignment for Unsupervised Domain Adaptation",
+    [
+      "Hao-Wei Yeh",
+      "Baoyao Yang",
+      "Pong C. Yuen",
+      "Tatsuya Harada"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yeh_SoFA_Source-Data-Free_Feature_Alignment_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Yeh_SoFA_Source-Data-Free_Feature_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Towards Visually Explaining Video Understanding Networks With Perturbation",
+    [
+      "Zhenqiang Li",
+      "Weimin Wang",
+      "Zuoyue Li",
+      "Yifei Huang",
+      "Yoichi Sato"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Towards_Visually_Explaining_Video_Understanding_Networks_With_Perturbation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2005.00375"
+    ]
+  ],
+  [
+    "Continual Representation Learning for Biometric Identification",
+    [
+      "Bo Zhao",
+      "Shixiang Tang",
+      "Dapeng Chen",
+      "Hakan Bilen",
+      "Rui Zhao"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Continual_Representation_Learning_for_Biometric_Identification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.04455"
+    ]
+  ],
+  [
+    "MUSCLE: Strengthening Semi-Supervised Learning via Concurrent Unsupervised Learning Using Mutual Information Maximization",
+    [
+      "Hanchen Xie",
+      "Mohamed E. Hussein",
+      "Aram Galstyan",
+      "Wael Abd-Almageed"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xie_MUSCLE_Strengthening_Semi-Supervised_Learning_via_Concurrent_Unsupervised_Learning_Using_Mutual_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.00150"
+    ]
+  ],
+  [
+    "AVGZSLNet: Audio-Visual Generalized Zero-Shot Learning by Reconstructing Label Features From Multi-Modal Embeddings",
+    [
+      "Pratik Mazumder",
+      "Pravendra Singh",
+      "Kranti Kumar Parida",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mazumder_AVGZSLNet_Audio-Visual_Generalized_Zero-Shot_Learning_by_Reconstructing_Label_Features_From_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2005.13402"
+    ]
+  ],
+  [
+    "Continuous Geodesic Convolutions for Learning on 3D Shapes",
+    [
+      "Zhangsihao Yang",
+      "Or Litany",
+      "Tolga Birdal",
+      "Srinath Sridhar",
+      "Leonidas Guibas"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Continuous_Geodesic_Convolutions_for_Learning_on_3D_Shapes_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2002.02506"
+    ]
+  ],
+  [
+    "Shape From Caustics: Reconstruction of 3D-Printed Glass From Simulated Caustic Images",
+    [
+      "Marc Kassubeck",
+      "Florian Burgel",
+      "Susana Castillo",
+      "Sebastian Stiller",
+      "Marcus Magnor"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kassubeck_Shape_From_Caustics_Reconstruction_of_3D-Printed_Glass_From_Simulated_Caustic_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kassubeck_Shape_From_Caustics_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Weakly Supervised Instance Segmentation by Deep Community Learning",
+    [
+      "Jaedong Hwang",
+      "Seohyun Kim",
+      "Jeany Son",
+      "Bohyung Han"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hwang_Weakly_Supervised_Instance_Segmentation_by_Deep_Community_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hwang_Weakly_Supervised_Instance_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2001.11207"
+    ]
+  ],
+  [
+    "Coarse-to-Fine Gaze Redirection With Numerical and Pictorial Guidance",
+    [
+      "Jingjing Chen",
+      "Jichao Zhang",
+      "Enver Sangineto",
+      "Tao Chen",
+      "Jiayuan Fan",
+      "Nicu Sebe"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Coarse-to-Fine_Gaze_Redirection_With_Numerical_and_Pictorial_Guidance_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chen_Coarse-to-Fine_Gaze_Redirection_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2004.03064"
+    ]
+  ],
+  [
+    "S3-Net: A Fast and Lightweight Video Scene Understanding Network by Single-Shot Segmentation",
+    [
+      "Yuan Cheng",
+      "Yuchao Yang",
+      "Hai-Bao Chen",
+      "Ngai Wong",
+      "Hao Yu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Cheng_S3-Net_A_Fast_and_Lightweight_Video_Scene_Understanding_Network_by_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Improve CAM With Auto-Adapted Segmentation and Co-Supervised Augmentation",
+    [
+      "Ziyi Kou",
+      "Guofeng Cui",
+      "Shaojie Wang",
+      "Wentian Zhao",
+      "Chenliang Xu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kou_Improve_CAM_With_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Analyzing Deep Neural Network's Transferability via Frechet Distance",
+    [
+      "Yifan Ding",
+      "Liqiang Wang",
+      "Boqing Gong"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ding_Analyzing_Deep_Neural_Networks_Transferability_via_Frechet_Distance_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Controllable and Progressive Image Extrapolation",
+    [
+      "Yijun Li",
+      "Lu Jiang",
+      "Ming-Hsuan Yang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Controllable_and_Progressive_Image_Extrapolation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1912.11711"
+    ]
+  ],
+  [
+    "How to Make a BLT Sandwich? Learning VQA Towards Understanding Web Instructional Videos",
+    [
+      "Shaojie Wang",
+      "Wentian Zhao",
+      "Ziyi Kou",
+      "Jing Shi",
+      "Chenliang Xu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_How_to_Make_a_BLT_Sandwich_Learning_VQA_Towards_Understanding_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wang_How_to_Make_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Proposal Learning for Semi-Supervised Object Detection",
+    [
+      "Peng Tang",
+      "Chetan Ramaiah",
+      "Yan Wang",
+      "Ran Xu",
+      "Caiming Xiong"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tang_Proposal_Learning_for_Semi-Supervised_Object_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2001.05086"
+    ]
+  ],
+  [
+    "Multi-Path Neural Networks for On-Device Multi-Domain Visual Classification",
+    [
+      "Qifei Wang",
+      "Junjie Ke",
+      "Joshua Greaves",
+      "Grace Chu",
+      "Gabriel Bender",
+      "Luciano Sbaiz",
+      "Alec Go",
+      "Andrew Howard",
+      "Ming-Hsuan Yang",
+      "Jeff Gilbert",
+      "Peyman Milanfar",
+      "Feng Yang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Multi-Path_Neural_Networks_for_On-Device_Multi-Domain_Visual_Classification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.04904"
+    ]
+  ],
+  [
+    "Effectiveness of Arbitrary Transfer Sets for Data-Free Knowledge Distillation",
+    [
+      "Gaurav Kumar Nayak",
+      "Konda Reddy Mopuri",
+      "Anirban Chakraborty"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nayak_Effectiveness_of_Arbitrary_Transfer_Sets_for_Data-Free_Knowledge_Distillation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Nayak_Effectiveness_of_Arbitrary_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.09113"
+    ]
+  ],
+  [
+    "Relighting Images in the Wild With a Self-Supervised Siamese Auto-Encoder",
+    [
+      "Yang Liu",
+      "Alexandros Neophytou",
+      "Sunando Sengupta",
+      "Eric Sommerlade"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Relighting_Images_in_the_Wild_With_a_Self-Supervised_Siamese_Auto-Encoder_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.06444"
+    ]
+  ],
+  [
+    "Attention-Based Spatial Guidance for Image-to-Image Translation",
+    [
+      "Yu Lin",
+      "Yigong Wang",
+      "Yifan Li",
+      "Yang Gao",
+      "Zhuoyi Wang",
+      "Latifur Khan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lin_Attention-Based_Spatial_Guidance_for_Image-to-Image_Translation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lin_Attention-Based_Spatial_Guidance_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "EVET: Enhancing Visual Explanations of Deep Neural Networks Using Image Transformations",
+    [
+      "Youngrock Oh",
+      "Hyungsik Jung",
+      "Jeonghyung Park",
+      "Min Soo Kim"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Oh_EVET_Enhancing_Visual_Explanations_of_Deep_Neural_Networks_Using_Image_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Oh_EVET_Enhancing_Visual_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "ATM: Attentional Text Matting",
+    [
+      "Peng Kang",
+      "Jianping Zhang",
+      "Chen Ma",
+      "Guiling Sun"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kang_ATM_Attentional_Text_Matting_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kang_ATM_Attentional_Text_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Efficient Real-Time Radial Distortion Correction for UAVs",
+    [
+      "Marcus Valtonen Ornhag",
+      "Patrik Persson",
+      "Marten Wadenback",
+      "Kalle Astrom",
+      "Anders Heyden"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ornhag_Efficient_Real-Time_Radial_Distortion_Correction_for_UAVs_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.04203"
+    ]
+  ],
+  [
+    "Learned Dual-View Reflection Removal",
+    [
+      "Simon Niklaus",
+      "Xuaner (Cecilia) Zhang",
+      "Jonathan T. Barron",
+      "Neal Wadhwa",
+      "Rahul Garg",
+      "Feng Liu",
+      "Tianfan Xue"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Niklaus_Learned_Dual-View_Reflection_Removal_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Niklaus_Learned_Dual-View_Reflection_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.00702"
+    ]
+  ],
+  [
+    "Goal-Driven Long-Term Trajectory Prediction",
+    [
+      "Hung Tran",
+      "Vuong Le",
+      "Truyen Tran"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tran_Goal-Driven_Long-Term_Trajectory_Prediction_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Tran_Goal-Driven_Long-Term_Trajectory_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.02751"
+    ]
+  ],
+  [
+    "VideoSSL: Semi-Supervised Learning for Video Classification",
+    [
+      "Longlong Jing",
+      "Toufiq Parag",
+      "Zhe Wu",
+      "Yingli Tian",
+      "Hongcheng Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jing_VideoSSL_Semi-Supervised_Learning_for_Video_Classification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2003.00197"
+    ]
+  ],
+  [
+    "Mutual Information Maximization on Disentangled Representations for Differential Morph Detection",
+    [
+      "Sobhan Soleymani",
+      "Ali Dabouei",
+      "Fariborz Taherkhani",
+      "Jeremy Dawson",
+      "Nasser M. Nasrabadi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Soleymani_Mutual_Information_Maximization_on_Disentangled_Representations_for_Differential_Morph_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.01542"
+    ]
+  ],
+  [
+    "Few-Shot Learning via Feature Hallucination With Variational Inference",
+    [
+      "Qinxuan Luo",
+      "Lingfeng Wang",
+      "Jingguo Lv",
+      "Shiming Xiang",
+      "Chunhong Pan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Luo_Few-Shot_Learning_via_Feature_Hallucination_With_Variational_Inference_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Line Art Correlation Matching Feature Transfer Network for Automatic Animation Colorization",
+    [
+      "Qian Zhang",
+      "Bo Wang",
+      "Wei Wen",
+      "Hai Li",
+      "Junhui Liu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Line_Art_Correlation_Matching_Feature_Transfer_Network_for_Automatic_Animation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2004.06718"
+    ]
+  ],
+  [
+    "Motion Adaptive Deblurring With Single-Photon Cameras",
+    [
+      "Trevor Seets",
+      "Atul Ingle",
+      "Martin Laurenzis",
+      "Andreas Velten"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Seets_Motion_Adaptive_Deblurring_With_Single-Photon_Cameras_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Seets_Motion_Adaptive_Deblurring_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2012.07931"
+    ]
+  ],
+  [
+    "Revisiting Batch Normalization for Improving Corruption Robustness",
+    [
+      "Philipp Benz",
+      "Chaoning Zhang",
+      "Adil Karjauv",
+      "In So Kweon"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Benz_Revisiting_Batch_Normalization_for_Improving_Corruption_Robustness_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.03630"
+    ]
+  ],
+  [
+    "Adaptive Streaming of 360-Degree Videos With Reinforcement Learning",
+    [
+      "Sohee Park",
+      "Minh Hoai",
+      "Arani Bhattacharya",
+      "Samir R. Das"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Park_Adaptive_Streaming_of_360-Degree_Videos_With_Reinforcement_Learning_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Automatic Calibration of the Fisheye Camera for Egocentric 3D Human Pose Estimation From a Single Image",
+    [
+      "Yahui Zhang",
+      "Shaodi You",
+      "Theo Gevers"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Automatic_Calibration_of_the_Fisheye_Camera_for_Egocentric_3D_Human_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Two-Level Adversarial Visual-Semantic Coupling for Generalized Zero-Shot Learning",
+    [
+      "Shivam Chandhok",
+      "Vineeth N Balasubramanian"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chandhok_Two-Level_Adversarial_Visual-Semantic_Coupling_for_Generalized_Zero-Shot_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chandhok_Two-Level_Adversarial_Visual-Semantic_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2007.07757"
+    ]
+  ],
+  [
+    "Unsupervised Domain Adaptation in Semantic Segmentation via Orthogonal and Clustered Embeddings",
+    [
+      "Marco Toldo",
+      "Umberto Michieli",
+      "Pietro Zanuttigh"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Toldo_Unsupervised_Domain_Adaptation_in_Semantic_Segmentation_via_Orthogonal_and_Clustered_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Toldo_Unsupervised_Domain_Adaptation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.12616"
+    ]
+  ],
+  [
+    "Saliency Driven Perceptual Image Compression",
+    [
+      "Yash Patel",
+      "Srikar Appalaraju",
+      "R. Manmatha"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Patel_Saliency_Driven_Perceptual_Image_Compression_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Patel_Saliency_Driven_Perceptual_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2002.04988"
+    ]
+  ],
+  [
+    "A Multi-Task Learning Approach for Human Activity Segmentation and Ergonomics Risk Assessment",
+    [
+      "Behnoosh Parsa",
+      "Ashis G. Banerjee"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Parsa_A_Multi-Task_Learning_Approach_for_Human_Activity_Segmentation_and_Ergonomics_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.03014"
+    ]
+  ],
+  [
+    "A Variational Information Bottleneck Based Method to Compress Sequential Networks for Human Action Recognition",
+    [
+      "Ayush Srivastava",
+      "Oshin Dutta",
+      "Jigyasa Gupta",
+      "Sumeet Agarwal",
+      "Prathosh AP"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Srivastava_A_Variational_Information_Bottleneck_Based_Method_to_Compress_Sequential_Networks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Srivastava_A_Variational_Information_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.01343"
+    ]
+  ],
+  [
+    "Adversarial Reinforcement Learning for Unsupervised Domain Adaptation",
+    [
+      "Youshan Zhang",
+      "Hui Ye",
+      "Brian D. Davison"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Adversarial_Reinforcement_Learning_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "A Robust and Efficient Framework for Sports-Field Registration",
+    [
+      "Xiaohan Nie",
+      "Shixing Chen",
+      "Raffay Hamid"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nie_A_Robust_and_Efficient_Framework_for_Sports-Field_Registration_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Nie_A_Robust_and_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Robust Lensless Image Reconstruction via PSF Estimation",
+    [
+      "Joshua D. Rego",
+      "Karthik Kulkarni",
+      "Suren Jayasuriya"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rego_Robust_Lensless_Image_Reconstruction_via_PSF_Estimation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Rego_Robust_Lensless_Image_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Person-in-Context Synthesis With Compositional Structural Space",
+    [
+      "Weidong Yin",
+      "Ziwei Liu",
+      "Leonid Sigal"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yin_Person-in-Context_Synthesis_With_Compositional_Structural_Space_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Deep Template-Based Object Instance Detection",
+    [
+      "Jean-Philippe Mercier",
+      "Mathieu Garon",
+      "Philippe Giguere",
+      "Jean-Francois Lalonde"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mercier_Deep_Template-Based_Object_Instance_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mercier_Deep_Template-Based_Object_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1911.11822"
+    ]
+  ],
+  [
+    "Future Moment Assessment for Action Query",
+    [
+      "Qiuhong Ke",
+      "Mario Fritz",
+      "Bernt Schiele"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ke_Future_Moment_Assessment_for_Action_Query_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ke_Future_Moment_Assessment_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Fast Fourier Intrinsic Network",
+    [
+      "Yanlin Qian",
+      "Miaojing Shi",
+      "Joni-Kristian Kamarainen",
+      "Jiri Matas"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Qian_Fast_Fourier_Intrinsic_Network_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Qian_Fast_Fourier_Intrinsic_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.04612"
+    ]
+  ],
+  [
+    "Pretraining Boosts Out-of-Domain Robustness for Pose Estimation",
+    [
+      "Alexander Mathis",
+      "Thomas Biasi",
+      "Steffen Schneider",
+      "Mert Yuksekgonul",
+      "Byron Rogers",
+      "Matthias Bethge",
+      "Mackenzie W. Mathis"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mathis_Pretraining_Boosts_Out-of-Domain_Robustness_for_Pose_Estimation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mathis_Pretraining_Boosts_Out-of-Domain_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1909.11229"
+    ]
+  ],
+  [
+    "We Don't Need Thousand Proposals: Single Shot Actor-Action Detection in Videos",
+    [
+      "Aayush J. Rana",
+      "Yogesh S. Rawat"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rana_We_Dont_Need_Thousand_Proposals_Single_Shot_Actor-Action_Detection_in_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Rana_We_Dont_Need_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "AutoRetouch: Automatic Professional Face Retouching",
+    [
+      "Alireza Shafaei",
+      "James J. Little",
+      "Mark Schmidt"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shafaei_AutoRetouch_Automatic_Professional_Face_Retouching_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Shafaei_AutoRetouch_Automatic_Professional_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Hierarchical Generative Adversarial Networks for Single Image Super-Resolution",
+    [
+      "Weimin Chen",
+      "Yuqing Ma",
+      "Xianglong Liu",
+      "Yi Yuan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Hierarchical_Generative_Adversarial_Networks_for_Single_Image_Super-Resolution_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chen_Hierarchical_Generative_Adversarial_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Text-to-Image Generation Grounded by Fine-Grained User Attention",
+    [
+      "Jing Yu Koh",
+      "Jason Baldridge",
+      "Honglak Lee",
+      "Yinfei Yang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Koh_Text-to-Image_Generation_Grounded_by_Fine-Grained_User_Attention_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Koh_Text-to-Image_Generation_Grounded_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.03775"
+    ]
+  ],
+  [
+    "maskedFaceNet: A Progressive Semi-Supervised Masked Face Detector",
+    [
+      "Shitala Prasad",
+      "Yiqun Li",
+      "Dongyun Lin",
+      "Dong Sheng"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Prasad_maskedFaceNet_A_Progressive_Semi-Supervised_Masked_Face_Detector_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Adaptive Privacy Preserving Deep Learning Algorithms for Medical Data",
+    [
+      "Xinyue Zhang",
+      "Jiahao Ding",
+      "Maoqiang Wu",
+      "Stephen T.C. Wong",
+      "Hien Van Nguyen",
+      "Miao Pan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Adaptive_Privacy_Preserving_Deep_Learning_Algorithms_for_Medical_Data_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Automatic Object Recoloring Using Adversarial Learning",
+    [
+      "Siavash Khodadadeh",
+      "Saeid Motiian",
+      "Zhe Lin",
+      "Ladislau Boloni",
+      "Shabnam Ghadar"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Khodadadeh_Automatic_Object_Recoloring_Using_Adversarial_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Khodadadeh_Automatic_Object_Recoloring_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Improved Training of Generative Adversarial Networks Using Decision Forests",
+    [
+      "Yan Zuo",
+      "Gil Avraham",
+      "Tom Drummond"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zuo_Improved_Training_of_Generative_Adversarial_Networks_Using_Decision_Forests_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Boosting Monocular Depth With Panoptic Segmentation Maps",
+    [
+      "Faraz Saeedan",
+      "Stefan Roth"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Saeedan_Boosting_Monocular_Depth_With_Panoptic_Segmentation_Maps_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Saeedan_Boosting_Monocular_Depth_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Context-Aware Domain Adaptation in Semantic Segmentation",
+    [
+      "Jinyu Yang",
+      "Weizhi An",
+      "Chaochao Yan",
+      "Peilin Zhao",
+      "Junzhou Huang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Context-Aware_Domain_Adaptation_in_Semantic_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Yang_Context-Aware_Domain_Adaptation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2003.04010"
+    ]
+  ],
+  [
+    "Neural Contrast Enhancement of CT Image",
+    [
+      "Minkyo Seo",
+      "Dongkeun Kim",
+      "Kyungmoon Lee",
+      "Seunghoon Hong",
+      "Jae Seok Bae",
+      "Jung Hoon Kim",
+      "Suha Kwak"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Seo_Neural_Contrast_Enhancement_of_CT_Image_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "TB-Net: A Three-Stream Boundary-Aware Network for Fine-Grained Pavement Disease Segmentation",
+    [
+      "Yujia Zhang",
+      "Qianzhong Li",
+      "Xiaoguang Zhao",
+      "Min Tan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_TB-Net_A_Three-Stream_Boundary-Aware_Network_for_Fine-Grained_Pavement_Disease_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Zhang_TB-Net_A_Three-Stream_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Alleviating Over-Segmentation Errors by Detecting Action Boundaries",
+    [
+      "Yuchi Ishikawa",
+      "Seito Kasai",
+      "Yoshimitsu Aoki",
+      "Hirokatsu Kataoka"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ishikawa_Alleviating_Over-Segmentation_Errors_by_Detecting_Action_Boundaries_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ishikawa_Alleviating_Over-Segmentation_Errors_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2007.06866"
+    ]
+  ],
+  [
+    "Towards Resolving the Challenge of Long-Tail Distribution in UAV Images for Object Detection",
+    [
+      "Weiping Yu",
+      "Taojiannan Yang",
+      "Chen Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yu_Towards_Resolving_the_Challenge_of_Long-Tail_Distribution_in_UAV_Images_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.03822"
+    ]
+  ],
+  [
+    "Making DensePose Fast and Light",
+    [
+      "Ruslan Rakhimov",
+      "Emil Bogomolov",
+      "Alexandr Notchenko",
+      "Fung Mao",
+      "Alexey Artemov",
+      "Denis Zorin",
+      "Evgeny Burnaev"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rakhimov_Making_DensePose_Fast_and_Light_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.15190"
+    ]
+  ],
+  [
+    "MVHM: A Large-Scale Multi-View Hand Mesh Benchmark for Accurate 3D Hand Pose Estimation",
+    [
+      "Liangjian Chen",
+      "Shih-Yao Lin",
+      "Yusheng Xie",
+      "Yen-Yu Lin",
+      "Xiaohui Xie"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_MVHM_A_Large-Scale_Multi-View_Hand_Mesh_Benchmark_for_Accurate_3D_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.03206"
+    ]
+  ],
+  [
+    "Fast Pose Graph Optimization via Krylov-Schur and Cholesky Factorization",
+    [
+      "Gabriel Moreira",
+      "Manuel Marques",
+      "Joao Paulo Costeira"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Moreira_Fast_Pose_Graph_Optimization_via_Krylov-Schur_and_Cholesky_Factorization_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Moreira_Fast_Pose_Graph_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Dense 3D-Reconstruction From Monocular Image Sequences for Computationally Constrained UAS",
+    [
+      "Matthias Domnik",
+      "Pedro Proenca",
+      "Jeff Delaune",
+      "Jorg Thiem",
+      "Roland Brockers"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Domnik_Dense_3D-Reconstruction_From_Monocular_Image_Sequences_for_Computationally_Constrained_UAS_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "DORi: Discovering Object Relationships for Moment Localization of a Natural Language Query in a Video",
+    [
+      "Cristian Rodriguez-Opazo",
+      "Edison Marrese-Taylor",
+      "Basura Fernando",
+      "Hongdong Li",
+      "Stephen Gould"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rodriguez-Opazo_DORi_Discovering_Object_Relationships_for_Moment_Localization_of_a_Natural_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Rodriguez-Opazo_DORi_Discovering_Object_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "ClassMix: Segmentation-Based Data Augmentation for Semi-Supervised Learning",
+    [
+      "Viktor Olsson",
+      "Wilhelm Tranheden",
+      "Juliano Pinto",
+      "Lennart Svensson"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Olsson_ClassMix_Segmentation-Based_Data_Augmentation_for_Semi-Supervised_Learning_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2007.07936"
+    ]
+  ],
+  [
+    "Deep Image Compositing",
+    [
+      "He Zhang",
+      "Jianming Zhang",
+      "Federico Perazzi",
+      "Zhe Lin",
+      "Vishal M. Patel"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Deep_Image_Compositing_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.02146"
+    ]
+  ],
+  [
+    "Novel View Synthesis via Depth-Guided Skip Connections",
+    [
+      "Yuxin Hou",
+      "Arno Solin",
+      "Juho Kannala"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hou_Novel_View_Synthesis_via_Depth-Guided_Skip_Connections_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "GlocalNet: Class-Aware Long-Term Human Motion Synthesis",
+    [
+      "Neeraj Battan",
+      "Yudhik Agrawal",
+      "Sai Soorya Rao",
+      "Aman Goel",
+      "Avinash Sharma"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Battan_GlocalNet_Class-Aware_Long-Term_Human_Motion_Synthesis_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Battan_GlocalNet_Class-Aware_Long-Term_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "JOLO-GCN: Mining Joint-Centered Light-Weight Information for Skeleton-Based Action Recognition",
+    [
+      "Jinmiao Cai",
+      "Nianjuan Jiang",
+      "Xiaoguang Han",
+      "Kui Jia",
+      "Jiangbo Lu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Cai_JOLO-GCN_Mining_Joint-Centered_Light-Weight_Information_for_Skeleton-Based_Action_Recognition_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Deformable Gabor Feature Networks for Biomedical Image Classification",
+    [
+      "Xuan Gong",
+      "Xin Xia",
+      "Wentao Zhu",
+      "Baochang Zhang",
+      "David Doermann",
+      "Li'an Zhuo"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Gong_Deformable_Gabor_Feature_Networks_for_Biomedical_Image_Classification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.04109"
+    ]
+  ],
+  [
+    "Improving Robustness and Uncertainty Modelling in Neural Ordinary Differential Equations",
+    [
+      "Srinivas Anumasa",
+      "P. K. Srijith"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Anumasa_Improving_Robustness_and_Uncertainty_Modelling_in_Neural_Ordinary_Differential_Equations_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Selective Spatio-Temporal Aggregation Based Pose Refinement System: Towards Understanding Human Activities in Real-World Videos",
+    [
+      "Di Yang",
+      "Rui Dai",
+      "Yaohui Wang",
+      "Rupayan Mallick",
+      "Luca Minciullo",
+      "Gianpiero Francesca",
+      "Francois Bremond"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Selective_Spatio-Temporal_Aggregation_Based_Pose_Refinement_System_Towards_Understanding_Human_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Yang_Selective_Spatio-Temporal_Aggregation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.05358"
+    ]
+  ],
+  [
+    "Long-Range Attention Network for Multi-View Stereo",
+    [
+      "Xudong Zhang",
+      "Yutao Hu",
+      "Haochen Wang",
+      "Xianbin Cao",
+      "Baochang Zhang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Long-Range_Attention_Network_for_Multi-View_Stereo_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Domain-Adaptive Few-Shot Learning",
+    [
+      "An Zhao",
+      "Mingyu Ding",
+      "Zhiwu Lu",
+      "Tao Xiang",
+      "Yulei Niu",
+      "Jiechao Guan",
+      "Ji-Rong Wen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Domain-Adaptive_Few-Shot_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Zhao_Domain-Adaptive_Few-Shot_Learning_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2003.08626"
+    ]
+  ],
+  [
+    "Lip-Reading With Densely Connected Temporal Convolutional Networks",
+    [
+      "Pingchuan Ma",
+      "Yujiang Wang",
+      "Jie Shen",
+      "Stavros Petridis",
+      "Maja Pantic"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ma_Lip-Reading_With_Densely_Connected_Temporal_Convolutional_Networks_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2009.14233"
+    ]
+  ],
+  [
+    "Auto-Navigator: Decoupled Neural Architecture Search for Visual Navigation",
+    [
+      "Tianqi Tang",
+      "Xin Yu",
+      "Xuanyi Dong",
+      "Yi Yang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tang_Auto-Navigator_Decoupled_Neural_Architecture_Search_for_Visual_Navigation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Tang_Auto-Navigator_Decoupled_Neural_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Unsupervised Video Representation Learning by Bidirectional Feature Prediction",
+    [
+      "Nadine Behrmann",
+      "Jurgen Gall",
+      "Mehdi Noroozi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Behrmann_Unsupervised_Video_Representation_Learning_by_Bidirectional_Feature_Prediction_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Behrmann_Unsupervised_Video_Representation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.06037"
+    ]
+  ],
+  [
+    "From Generalized Zero-Shot Learning to Long-Tail With Class Descriptors",
+    [
+      "Dvir Samuel",
+      "Yuval Atzmon",
+      "Gal Chechik"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Samuel_From_Generalized_Zero-Shot_Learning_to_Long-Tail_With_Class_Descriptors_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Samuel_From_Generalized_Zero-Shot_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2004.02235"
+    ]
+  ],
+  [
+    "CASIA-SURF CeFA: A Benchmark for Multi-Modal Cross-Ethnicity Face Anti-Spoofing",
+    [
+      "Ajian Liu",
+      "Zichang Tan",
+      "Jun Wan",
+      "Sergio Escalera",
+      "Guodong Guo",
+      "Stan Z. Li"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_CASIA-SURF_CeFA_A_Benchmark_for_Multi-Modal_Cross-Ethnicity_Face_Anti-Spoofing_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Ellipse Detection and Localization With Applications to Knots in Sawn Lumber Images",
+    [
+      "Shenyi Pan",
+      "Shuxian Fan",
+      "Samuel W.K. Wong",
+      "James V. Zidek",
+      "Helge Rhodin"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Pan_Ellipse_Detection_and_Localization_With_Applications_to_Knots_in_Sawn_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Pan_Ellipse_Detection_and_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.04844"
+    ]
+  ],
+  [
+    "Foreground-Aware Semantic Representations for Image Harmonization",
+    [
+      "Konstantin Sofiiuk",
+      "Polina Popenova",
+      "Anton Konushin"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sofiiuk_Foreground-Aware_Semantic_Representations_for_Image_Harmonization_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Sofiiuk_Foreground-Aware_Semantic_Representations_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2006.00809"
+    ]
+  ],
+  [
+    "Action Duration Prediction for Segment-Level Alignment of Weakly-Labeled Videos",
+    [
+      "Reza Ghoddoosian",
+      "Saif Sayed",
+      "Vassilis Athitsos"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ghoddoosian_Action_Duration_Prediction_for_Segment-Level_Alignment_of_Weakly-Labeled_Videos_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ghoddoosian_Action_Duration_Prediction_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.10190"
+    ]
+  ],
+  [
+    "DACS: Domain Adaptation via Cross-Domain Mixed Sampling",
+    [
+      "Wilhelm Tranheden",
+      "Viktor Olsson",
+      "Juliano Pinto",
+      "Lennart Svensson"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tranheden_DACS_Domain_Adaptation_via_Cross-Domain_Mixed_Sampling_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2007.08702"
+    ]
+  ],
+  [
+    "SliceNets -- A Scalable Approach for Object Detection in 3D CT Scans",
+    [
+      "Anqi Yang",
+      "Feng Pan",
+      "Vishwanath Saragadam",
+      "Duy Dao",
+      "Zhuo Hui",
+      "Jen-Hao Rick Chang",
+      "Aswin C. Sankaranarayanan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_SliceNets_--_A_Scalable_Approach_for_Object_Detection_in_3D_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Yang_SliceNets_--_A_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Real-Time Localized Photorealistic Video Style Transfer",
+    [
+      "Xide Xia",
+      "Tianfan Xue",
+      "Wei-Sheng Lai",
+      "Zheng Sun",
+      "Abby Chang",
+      "Brian Kulis",
+      "Jiawen Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xia_Real-Time_Localized_Photorealistic_Video_Style_Transfer_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Xia_Real-Time_Localized_Photorealistic_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.10056"
+    ]
+  ],
+  [
+    "CoMoDA: Continuous Monocular Depth Adaptation Using Past Experiences",
+    [
+      "Yevhen Kuznietsov",
+      "Marc Proesmans",
+      "Luc Van Gool"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kuznietsov_CoMoDA_Continuous_Monocular_Depth_Adaptation_Using_Past_Experiences_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kuznietsov_CoMoDA_Continuous_Monocular_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "HyperCon: Image-to-Video Model Transfer for Video-to-Video Translation Tasks",
+    [
+      "Ryan Szeto",
+      "Mostafa El-Khamy",
+      "Jungwon Lee",
+      "Jason J. Corso"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Szeto_HyperCon_Image-to-Video_Model_Transfer_for_Video-to-Video_Translation_Tasks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Szeto_HyperCon_Image-to-Video_Model_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Improving Video Captioning With Temporal Composition of a Visual-Syntactic Embedding",
+    [
+      "Jesus Perez-Martin",
+      "Benjamin Bustos",
+      "Jorge Perez"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Perez-Martin_Improving_Video_Captioning_With_Temporal_Composition_of_a_Visual-Syntactic_Embedding_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Adaptive Multiplane Image Generation From a Single Internet Picture",
+    [
+      "Diogo C. Luvizon",
+      "Gustavo Sutter P. Carvalho",
+      "Andreza A. dos Santos",
+      "Jhonatas S. Conceicao",
+      "Jose L. Flores-Campana",
+      "Luis G. L. Decker",
+      "Marcos R. Souza",
+      "Helio Pedrini",
+      "Antonio Joia",
+      "Otavio A. B. Penatti"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Luvizon_Adaptive_Multiplane_Image_Generation_From_a_Single_Internet_Picture_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.13317"
+    ]
+  ],
+  [
+    "MSNet: A Multilevel Instance Segmentation Network for Natural Disaster Damage Assessment in Aerial Videos",
+    [
+      "Xiaoyu Zhu",
+      "Junwei Liang",
+      "Alexander Hauptmann"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_MSNet_A_Multilevel_Instance_Segmentation_Network_for_Natural_Disaster_Damage_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.16479"
+    ]
+  ],
+  [
+    "Recovering Trajectories of Unmarked Joints in 3D Human Actions Using Latent Space Optimization",
+    [
+      "Suhas Lohit",
+      "Rushil Anirudh",
+      "Pavan Turaga"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lohit_Recovering_Trajectories_of_Unmarked_Joints_in_3D_Human_Actions_Using_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lohit_Recovering_Trajectories_of_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2012.02043"
+    ]
+  ],
+  [
+    "Do Not Forget to Attend to Uncertainty While Mitigating Catastrophic Forgetting",
+    [
+      "Vinod K. Kurmi",
+      "Badri N. Patro",
+      "Venkatesh K. Subramanian",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Do_Not_Forget_to_Attend_to_Uncertainty_While_Mitigating_Catastrophic_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "ResNet or DenseNet? Introducing Dense Shortcuts to ResNet",
+    [
+      "Chaoning Zhang",
+      "Philipp Benz",
+      "Dawit Mureja Argaw",
+      "Seokju Lee",
+      "Junsik Kim",
+      "Francois Rameau",
+      "Jean-Charles Bazin",
+      "In So Kweon"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_ResNet_or_DenseNet_Introducing_Dense_Shortcuts_to_ResNet_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.12496"
+    ]
+  ],
+  [
+    "Multi-Task Knowledge Distillation for Eye Disease Prediction",
+    [
+      "Sahil Chelaramani",
+      "Manish Gupta",
+      "Vipul Agarwal",
+      "Prashant Gupta",
+      "Ranya Habash"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chelaramani_Multi-Task_Knowledge_Distillation_for_Eye_Disease_Prediction_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chelaramani_Multi-Task_Knowledge_Distillation_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "SALAD: Self-Assessment Learning for Action Detection",
+    [
+      "Guillaume Vaudaux-Ruth",
+      "Adrien Chan-Hon-Tong",
+      "Catherine Achard"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Vaudaux-Ruth_SALAD_Self-Assessment_Learning_for_Action_Detection_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Dense-Resolution Network for Point Cloud Classification and Segmentation",
+    [
+      "Shi Qiu",
+      "Saeed Anwar",
+      "Nick Barnes"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Qiu_Dense-Resolution_Network_for_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2005.06734"
+    ]
+  ],
+  [
+    "Distillation Multiple Choice Learning for Multimodal Action Recognition",
+    [
+      "Nuno Cruz Garcia",
+      "Sarah Adel Bargal",
+      "Vitaly Ablavsky",
+      "Pietro Morerio",
+      "Vittorio Murino",
+      "Stan Sclaroff"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Garcia_Distillation_Multiple_Choice_Learning_for_Multimodal_Action_Recognition_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Garcia_Distillation_Multiple_Choice_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1912.10982"
+    ]
+  ],
+  [
+    "Unsupervised Meta-Domain Adaptation for Fashion Retrieval",
+    [
+      "Vivek Sharma",
+      "Naila Murray",
+      "Diane Larlus",
+      "Saquib Sarfraz",
+      "Rainer Stiefelhagen",
+      "Gabriela Csurka"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sharma_Unsupervised_Meta-Domain_Adaptation_for_Fashion_Retrieval_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Sharma_Unsupervised_Meta-Domain_Adaptation_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "SChISM: Semantic Clustering via Image Sequence Merging for Images of Human-Decomposition",
+    [
+      "Sara Mousavi",
+      "Dylan Lee",
+      "Tatianna Griffin",
+      "Kelley Cross",
+      "Dawnie Steadman",
+      "Audris Mockus"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mousavi_SChISM_Semantic_Clustering_via_Image_Sequence_Merging_for_Images_of_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Active Latent Space Shape Model: A Bayesian Treatment of Shape Model Adaptation With an Application to Psoriatic Arthritis Radiographs",
+    [
+      "Adwaye Rambojun",
+      "William Tillett",
+      "Tony Shardlow",
+      "Neill D. F. Campbell"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rambojun_Active_Latent_Space_Shape_Model_A_Bayesian_Treatment_of_Shape_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Rambojun_Active_Latent_Space_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Conditional Link Prediction of Category-Implicit Keypoint Detection",
+    [
+      "Ellen Yi-Ge",
+      "Rui Fan",
+      "Zechun Liu",
+      "Zhiqiang Shen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yi-Ge_Conditional_Link_Prediction_of_Category-Implicit_Keypoint_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Yi-Ge_Conditional_Link_Prediction_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Noise as a Resource for Learning in Knowledge Distillation",
+    [
+      "Elahe Arani",
+      "Fahad Sarfraz",
+      "Bahram Zonooz"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Arani_Noise_as_a_Resource_for_Learning_in_Knowledge_Distillation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Arani_Noise_as_a_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1910.05057"
+    ]
+  ],
+  [
+    "Real-Time Uncertainty Estimation in Computer Vision via Uncertainty-Aware Distribution Distillation",
+    [
+      "Yichen Shen",
+      "Zhilu Zhang",
+      "Mert R. Sabuncu",
+      "Lin Sun"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shen_Real-Time_Uncertainty_Estimation_in_Computer_Vision_via_Uncertainty-Aware_Distribution_Distillation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Shen_Real-Time_Uncertainty_Estimation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2007.15857"
+    ]
+  ],
+  [
+    "Constrained Weight Optimization for Learning Without Activation Normalization",
+    [
+      "Daiki Ikami",
+      "Go Irie",
+      "Takashi Shibata"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ikami_Constrained_Weight_Optimization_for_Learning_Without_Activation_Normalization_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Defect-GAN: High-Fidelity Defect Synthesis for Automated Defect Inspection",
+    [
+      "Gongjie Zhang",
+      "Kaiwen Cui",
+      "Tzu-Yi Hung",
+      "Shijian Lu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Defect-GAN_High-Fidelity_Defect_Synthesis_for_Automated_Defect_Inspection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Zhang_Defect-GAN_High-Fidelity_Defect_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Set Augmented Triplet Loss for Video Person Re-Identification",
+    [
+      "Pengfei Fang",
+      "Pan Ji",
+      "Lars Petersson",
+      "Mehrtash Harandi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Fang_Set_Augmented_Triplet_Loss_for_Video_Person_Re-Identification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.00774"
+    ]
+  ],
+  [
+    "A Deep Temporal Fusion Framework for Scene Flow Using a Learnable Motion Model and Occlusions",
+    [
+      "Rene Schuster",
+      "Christian Unger",
+      "Didier Stricker"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Schuster_A_Deep_Temporal_Fusion_Framework_for_Scene_Flow_Using_a_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.01603"
+    ]
+  ],
+  [
+    "MART: Motion-Aware Recurrent Neural Network for Robust Visual Tracking",
+    [
+      "Heng Fan",
+      "Haibin Ling"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Fan_MART_Motion-Aware_Recurrent_Neural_Network_for_Robust_Visual_Tracking_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Fan_MART_Motion-Aware_Recurrent_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Splatty- a Unified Image Demosaicing and Rectification Method",
+    [
+      "Pranav Verma",
+      "Dominique E. Meyer",
+      "Hanyang Xu",
+      "Falko Kuester"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Verma_Splatty-_a_Unified_Image_Demosaicing_and_Rectification_Method_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Verma_Splatty-_a_Unified_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "End-to-End Lane Shape Prediction With Transformers",
+    [
+      "Ruijin Liu",
+      "Zejian Yuan",
+      "Tie Liu",
+      "Zhiliang Xiong"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_End-to-End_Lane_Shape_Prediction_With_Transformers_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.04233"
+    ]
+  ],
+  [
+    "Coarse- and Fine-Grained Attention Network With Background-Aware Loss for Crowd Density Map Estimation",
+    [
+      "Liangzi Rong",
+      "Chunping Li"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rong_Coarse-_and_Fine-Grained_Attention_Network_With_Background-Aware_Loss_for_Crowd_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Ensembling Low Precision Models for Binary Biomedical Image Segmentation",
+    [
+      "Tianyu Ma",
+      "Hang Zhang",
+      "Hanley Ong",
+      "Amar Vora",
+      "Thanh D. Nguyen",
+      "Ajay Gupta",
+      "Yi Wang",
+      "Mert R. Sabuncu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ma_Ensembling_Low_Precision_Models_for_Binary_Biomedical_Image_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ma_Ensembling_Low_Precision_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.08648"
+    ]
+  ],
+  [
+    "Interpretable and Trustworthy Deepfake Detection via Dynamic Prototypes",
+    [
+      "Loc Trinh",
+      "Michael Tsang",
+      "Sirisha Rambhatla",
+      "Yan Liu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Trinh_Interpretable_and_Trustworthy_Deepfake_Detection_via_Dynamic_Prototypes_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Trinh_Interpretable_and_Trustworthy_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "TranstextNet: Transducing Text for Recognizing Unseen Visual Relationships",
+    [
+      "Gal S. Kenigsfield",
+      "Ran El-Yaniv"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kenigsfield_TranstextNet_Transducing_Text_for_Recognizing_Unseen_Visual_Relationships_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kenigsfield_TranstextNet_Transducing_Text_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "3D Dense Geometry-Guided Facial Expression Synthesis by Adversarial Learning",
+    [
+      "Rumeysa Bodur",
+      "Binod Bhattarai",
+      "Tae-Kyun Kim"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bodur_3D_Dense_Geometry-Guided_Facial_Expression_Synthesis_by_Adversarial_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Bodur_3D_Dense_Geometry-Guided_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.14798"
+    ]
+  ],
+  [
+    "MPRNet: Multi-Path Residual Network for Lightweight Image Super Resolution",
+    [
+      "Armin Mehri",
+      "Parichehr B. Ardakani",
+      "Angel D. Sappa"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mehri_MPRNet_Multi-Path_Residual_Network_for_Lightweight_Image_Super_Resolution_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mehri_MPRNet_Multi-Path_Residual_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.04566"
+    ]
+  ],
+  [
+    "A Multi-Class Hinge Loss for Conditional GANs",
+    [
+      "Ilya Kavalerov",
+      "Wojciech Czaja",
+      "Rama Chellappa"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kavalerov_A_Multi-Class_Hinge_Loss_for_Conditional_GANs_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kavalerov_A_Multi-Class_Hinge_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Driving Among Flatmobiles: Bird-Eye-View Occupancy Grids From a Monocular Camera for Holistic Trajectory Planning",
+    [
+      "Abdelhak Loukkal",
+      "Yves Grandvalet",
+      "Tom Drummond",
+      "You Li"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Loukkal_Driving_Among_Flatmobiles_Bird-Eye-View_Occupancy_Grids_From_a_Monocular_Camera_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Loukkal_Driving_Among_Flatmobiles_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2008.04047"
+    ]
+  ],
+  [
+    "Class-Wise Metric Scaling for Improved Few-Shot Classification",
+    [
+      "Ge Liu",
+      "Linglan Zhao",
+      "Wei Li",
+      "Dashan Guo",
+      "Xiangzhong Fang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Class-Wise_Metric_Scaling_for_Improved_Few-Shot_Classification_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Liu_Class-Wise_Metric_Scaling_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Weakly Supervised Deep Reinforcement Learning for Video Summarization With Semantically Meaningful Reward",
+    [
+      "Zutong Li",
+      "Lei Yang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Weakly_Supervised_Deep_Reinforcement_Learning_for_Video_Summarization_With_Semantically_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "InfoMax-GAN: Improved Adversarial Image Generation via Information Maximization and Contrastive Learning",
+    [
+      "Kwot Sin Lee",
+      "Ngoc-Trung Tran",
+      "Ngai-Man Cheung"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lee_InfoMax-GAN_Improved_Adversarial_Image_Generation_via_Information_Maximization_and_Contrastive_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lee_InfoMax-GAN_Improved_Adversarial_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Can Selfless Learning Improve Accuracy of a Single Classification Task?",
+    [
+      "Soumya Roy",
+      "Bharat Bhusan Sau"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Roy_Can_Selfless_Learning_Improve_Accuracy_of_a_Single_Classification_Task_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Spike-Thrift: Towards Energy-Efficient Deep Spiking Neural Networks by Limiting Spiking Activity via Attention-Guided Compression",
+    [
+      "Souvik Kundu",
+      "Gourav Datta",
+      "Massoud Pedram",
+      "Peter A. Beerel"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kundu_Spike-Thrift_Towards_Energy-Efficient_Deep_Spiking_Neural_Networks_by_Limiting_Spiking_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "StacMR: Scene-Text Aware Cross-Modal Retrieval",
+    [
+      "Andres Mafla",
+      "Rafael S. Rezende",
+      "Lluis Gomez",
+      "Diane Larlus",
+      "Dimosthenis Karatzas"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mafla_StacMR_Scene-Text_Aware_Cross-Modal_Retrieval_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mafla_StacMR_Scene-Text_Aware_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2012.04329"
+    ]
+  ],
+  [
+    "DeepCSR: A 3D Deep Learning Approach for Cortical Surface Reconstruction",
+    [
+      "Rodrigo Santa Cruz",
+      "Leo Lebrat",
+      "Pierrick Bourgeat",
+      "Clinton Fookes",
+      "Jurgen Fripp",
+      "Olivier Salvado"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Santa_Cruz_DeepCSR_A_3D_Deep_Learning_Approach_for_Cortical_Surface_Reconstruction_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.11423"
+    ]
+  ],
+  [
+    "Fair Comparison: Quantifying Variance in Results for Fine-Grained Visual Categorization",
+    [
+      "Matthew Gwilliam",
+      "Adam Teuscher",
+      "Connor Anderson",
+      "Ryan Farrell"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Gwilliam_Fair_Comparison_Quantifying_Variance_in_Results_for_Fine-Grained_Visual_Categorization_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Subject Guided Eye Image Synthesis With Application to Gaze Redirection",
+    [
+      "Harsimran Kaur",
+      "Roberto Manduchi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kaur_Subject_Guided_Eye_Image_Synthesis_With_Application_to_Gaze_Redirection_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Hyperrealistic Image Inpainting With Hypergraphs",
+    [
+      "Gourav Wadhwa",
+      "Abhinav Dhall",
+      "Subrahmanyam Murala",
+      "Usman Tariq"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wadhwa_Hyperrealistic_Image_Inpainting_With_Hypergraphs_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wadhwa_Hyperrealistic_Image_Inpainting_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.02904"
+    ]
+  ],
+  [
+    "Learning Fast Converging, Effective Conditional Generative Adversarial Networks With a Mirrored Auxiliary Classifier",
+    [
+      "Zi Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Learning_Fast_Converging_Effective_Conditional_Generative_Adversarial_Networks_With_a_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Class-Agnostic Object Detection",
+    [
+      "Ayush Jaiswal",
+      "Yue Wu",
+      "Pradeep Natarajan",
+      "Premkumar Natarajan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jaiswal_Class-Agnostic_Object_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.14204"
+    ]
+  ],
+  [
+    "Self-Distillation for Few-Shot Image Captioning",
+    [
+      "Xianyu Chen",
+      "Ming Jiang",
+      "Qi Zhao"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Self-Distillation_for_Few-Shot_Image_Captioning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chen_Self-Distillation_for_Few-Shot_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "CenterFusion: Center-Based Radar and Camera Fusion for 3D Object Detection",
+    [
+      "Ramin Nabati",
+      "Hairong Qi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nabati_CenterFusion_Center-Based_Radar_and_Camera_Fusion_for_3D_Object_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.04841"
+    ]
+  ],
+  [
+    "Viewpoint-Agnostic Image Rendering",
+    [
+      "Hiroaki Aizawa",
+      "Hirokatsu Kataoka",
+      "Yutaka Satoh",
+      "Kunihito Kato"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Aizawa_Viewpoint-Agnostic_Image_Rendering_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "EAGLE-Eye: Extreme-Pose Action Grader Using Detail Bird's-Eye View",
+    [
+      "Mahdiar Nekoui",
+      "Fidel Omar Tito Cruz",
+      "Li Cheng"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nekoui_EAGLE-Eye_Extreme-Pose_Action_Grader_Using_Detail_Birds-Eye_View_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Nekoui_EAGLE-Eye_Extreme-Pose_Action_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "CAP: Context-Aware Pruning for Semantic Segmentation",
+    [
+      "Wei He",
+      "Meiqing Wu",
+      "Mingfu Liang",
+      "Siew-Kei Lam"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/He_CAP_Context-Aware_Pruning_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Breaking Shortcuts by Masking for Robust Visual Reasoning",
+    [
+      "Keren Ye",
+      "Mingda Zhang",
+      "Adriana Kovashka"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ye_Breaking_Shortcuts_by_Masking_for_Robust_Visual_Reasoning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ye_Breaking_Shortcuts_by_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Domain-Aware Unsupervised Hyperspectral Reconstruction for Aerial Image Dehazing",
+    [
+      "Aditya Mehta",
+      "Harsh Sinha",
+      "Murari Mandal",
+      "Pratik Narang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mehta_Domain-Aware_Unsupervised_Hyperspectral_Reconstruction_for_Aerial_Image_Dehazing_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.03677"
+    ]
+  ],
+  [
+    "Cross-Domain Latent Modulation for Variational Transfer Learning",
+    [
+      "Jinyong Hou",
+      "Jeremiah D. Deng",
+      "Stephen Cranefield",
+      "Xuejie Ding"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hou_Cross-Domain_Latent_Modulation_for_Variational_Transfer_Learning_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.11727"
+    ]
+  ],
+  [
+    "DeepOpht: Medical Report Generation for Retinal Images via Deep Models and Visual Explanation",
+    [
+      "Jia-Hong Huang",
+      "C.-H. Huck Yang",
+      "Fangyu Liu",
+      "Meng Tian",
+      "Yi-Chieh Liu",
+      "Ting-Wei Wu",
+      "I-Hung Lin",
+      "Kang Wang",
+      "Hiromasa Morikawa",
+      "Hernghua Chang",
+      "Jesper Tegner",
+      "Marcel Worring"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Huang_DeepOpht_Medical_Report_Generation_for_Retinal_Images_via_Deep_Models_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.00569"
+    ]
+  ],
+  [
+    "Generating Physically Sound Training Data for Image Recognition of Additively Manufactured Parts",
+    [
+      "Tobias Nickchen",
+      "Stefan Heindorf",
+      "Gregor Engels"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nickchen_Generating_Physically_Sound_Training_Data_for_Image_Recognition_of_Additively_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "GraphTCN: Spatio-Temporal Interaction Modeling for Human Trajectory Prediction",
+    [
+      "Chengxin Wang",
+      "Shaofeng Cai",
+      "Gary Tan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_GraphTCN_Spatio-Temporal_Interaction_Modeling_for_Human_Trajectory_Prediction_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2003.07167"
+    ]
+  ],
+  [
+    "Hand Pose Guided 3D Pooling for Word-Level Sign Language Recognition",
+    [
+      "Al Amin Hosain",
+      "Panneer Selvam Santhalingam",
+      "Parth Pathak",
+      "Huzefa Rangwala",
+      "Jana Kosecka"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hosain_Hand_Pose_Guided_3D_Pooling_for_Word-Level_Sign_Language_Recognition_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Efficient Attention: Attention With Linear Complexities",
+    [
+      "Zhuoran Shen",
+      "Mingyuan Zhang",
+      "Haiyu Zhao",
+      "Shuai Yi",
+      "Hongsheng Li"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shen_Efficient_Attention_Attention_With_Linear_Complexities_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Shen_Efficient_Attention_Attention_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/1812.01243"
+    ]
+  ],
+  [
+    "Enhancing Diversity in Teacher-Student Networks via Asymmetric Branches for Unsupervised Person Re-Identification",
+    [
+      "Hao Chen",
+      "Benoit Lagadec",
+      "Francois Bremond"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Enhancing_Diversity_in_Teacher-Student_Networks_via_Asymmetric_Branches_for_Unsupervised_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.13776"
+    ]
+  ],
+  [
+    "Large Image Datasets: A Pyrrhic Win for Computer Vision?",
+    [
+      "Abeba Birhane",
+      "Vinay Uday Prabhu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Birhane_Large_Image_Datasets_A_Pyrrhic_Win_for_Computer_Vision_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Birhane_Large_Image_Datasets_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2006.16923"
+    ]
+  ],
+  [
+    "Triangle-Net: Towards Robustness in Point Cloud Learning",
+    [
+      "Chenxi Xiao",
+      "Juan Wachs"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xiao_Triangle-Net_Towards_Robustness_in_Point_Cloud_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Xiao_Triangle-Net_Towards_Robustness_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "LT-GAN: Self-Supervised GAN With Latent Transformation Detection",
+    [
+      "Parth Patel",
+      "Nupur Kumari",
+      "Mayank Singh",
+      "Balaji Krishnamurthy"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Patel_LT-GAN_Self-Supervised_GAN_With_Latent_Transformation_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Patel_LT-GAN_Self-Supervised_GAN_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Audio- and Gaze-Driven Facial Animation of Codec Avatars",
+    [
+      "Alexander Richard",
+      "Colin Lea",
+      "Shugao Ma",
+      "Jurgen Gall",
+      "Fernando de la Torre",
+      "Yaser Sheikh"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Richard_Audio-_and_Gaze-Driven_Facial_Animation_of_Codec_Avatars_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Transductive Zero-Shot Learning by Decoupled Feature Generation",
+    [
+      "Federico Marmoreo",
+      "Jacopo Cavazza",
+      "Vittorio Murino"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Marmoreo_Transductive_Zero-Shot_Learning_by_Decoupled_Feature_Generation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Two-Hand Global 3D Pose Estimation Using Monocular RGB",
+    [
+      "Fanqing Lin",
+      "Connor Wilhelm",
+      "Tony Martinez"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lin_Two-Hand_Global_3D_Pose_Estimation_Using_Monocular_RGB_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lin_Two-Hand_Global_3D_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2006.01320"
+    ]
+  ],
+  [
+    "The Devil Is in the Boundary: Exploiting Boundary Representation for Basis-Based Instance Segmentation",
+    [
+      "Myungchul Kim",
+      "Sanghyun Woo",
+      "Dahun Kim",
+      "In So Kweon"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kim_The_Devil_Is_in_the_Boundary_Exploiting_Boundary_Representation_for_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kim_The_Devil_Is_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.13241"
+    ]
+  ],
+  [
+    "Towards Zero-Shot Learning With Fewer Seen Class Examples",
+    [
+      "Vinay Kumar Verma",
+      "Ashish Mishra",
+      "Anubha Pandey",
+      "Hema A. Murthy",
+      "Piyush Rai"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Verma_Towards_Zero-Shot_Learning_With_Fewer_Seen_Class_Examples_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Verma_Towards_Zero-Shot_Learning_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.07279"
+    ]
+  ],
+  [
+    "Painting Outside As Inside: Edge Guided Image Outpainting via Bidirectional Rearrangement With Progressive Step Learning",
+    [
+      "Kyunghun Kim",
+      "Yeohun Yun",
+      "Keon-Woo Kang",
+      "Kyeongbo Kong",
+      "Siyeong Lee",
+      "Suk-Ju Kang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kim_Painting_Outside_As_Inside_Edge_Guided_Image_Outpainting_via_Bidirectional_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.01810"
+    ]
+  ],
+  [
+    "End-to-End Learning Improves Static Object Geo-Localization From Video",
+    [
+      "Mohamed Chaabane",
+      "Lionel Gueguen",
+      "Ameni Trabelsi",
+      "Ross Beveridge",
+      "Stephen O'Hara"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chaabane_End-to-End_Learning_Improves_Static_Object_Geo-Localization_From_Video_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chaabane_End-to-End_Learning_Improves_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Self-Supervised 4D Spatio-Temporal Feature Learning via Order Prediction of Sequential Point Cloud Clips",
+    [
+      "Haiyan Wang",
+      "Liang Yang",
+      "Xuejian Rong",
+      "Jinglun Feng",
+      "Yingli Tian"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Self-Supervised_4D_Spatio-Temporal_Feature_Learning_via_Order_Prediction_of_Sequential_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Domain Impression: A Source Data Free Domain Adaptation Method",
+    [
+      "Vinod K. Kurmi",
+      "Venkatesh K. Subramanian",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kurmi_Domain_Impression_A_Source_Data_Free_Domain_Adaptation_Method_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Identity Unbiased Deception Detection by 2D-to-3D Face Reconstruction",
+    [
+      "Le Minh Ngo",
+      "Wei Wang",
+      "Burak Mandira",
+      "Sezer Karaoglu",
+      "Henri Bouma",
+      "Hamdi Dibeklioglu",
+      "Theo Gevers"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Phase-Wise Parameter Aggregation for Improving SGD Optimization",
+    [
+      "Takumi Kobayashi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kobayashi_Phase-Wise_Parameter_Aggregation_for_Improving_SGD_Optimization_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Learn Like a Pathologist: Curriculum Learning by Annotator Agreement for Histopathology Image Classification",
+    [
+      "Jerry Wei",
+      "Arief Suriawinata",
+      "Bing Ren",
+      "Xiaoying Liu",
+      "Mikhail Lisovsky",
+      "Louis Vaickus",
+      "Charles Brown",
+      "Michael Baker",
+      "Mustafa Nasir-Moin",
+      "Naofumi Tomita",
+      "Lorenzo Torresani",
+      "Jason Wei",
+      "Saeed Hassanpour"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wei_Learn_Like_a_Pathologist_Curriculum_Learning_by_Annotator_Agreement_for_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wei_Learn_Like_a_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.13698"
+    ]
+  ],
+  [
+    "Illumination Normalization by Partially Impossible Encoder-Decoder Cost Function",
+    [
+      "Steve Dias Da Cruz",
+      "Bertram Taetz",
+      "Thomas Stifter",
+      "Didier Stricker"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Da_Cruz_Illumination_Normalization_by_Partially_Impossible_Encoder-Decoder_Cost_Function_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Da_Cruz_Illumination_Normalization_by_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.03428"
+    ]
+  ],
+  [
+    "RarePlanes: Synthetic Data Takes Flight",
+    [
+      "Jacob Shermeyer",
+      "Thomas Hossler",
+      "Adam Van Etten",
+      "Daniel Hogan",
+      "Ryan Lewis",
+      "Daeil Kim"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shermeyer_RarePlanes_Synthetic_Data_Takes_Flight_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.02963"
+    ]
+  ],
+  [
+    "Spatially Aware Metadata for Raw Reconstruction",
+    [
+      "Abhijith Punnappurath",
+      "Michael S. Brown"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Punnappurath_Spatially_Aware_Metadata_for_Raw_Reconstruction_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Punnappurath_Spatially_Aware_Metadata_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "3DPoseLite: A Compact 3D Pose Estimation Using Node Embeddings",
+    [
+      "Meghal Dani",
+      "Karan Narain",
+      "Ramya Hebbalaguppe"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Dani_3DPoseLite_A_Compact_3D_Pose_Estimation_Using_Node_Embeddings_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dani_3DPoseLite_A_Compact_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Synthetic Expressions Are Better Than Real for Learning to Detect Facial Actions",
+    [
+      "Koichiro Niinuma",
+      "Itir Onal Ertugrul",
+      "Jeffrey F. Cohn",
+      "Laszlo A. Jeni"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Niinuma_Synthetic_Expressions_Are_Better_Than_Real_for_Learning_to_Detect_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Niinuma_Synthetic_Expressions_Are_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2010.10979"
+    ]
+  ],
+  [
+    "LoGAN: Latent Graph Co-Attention Network for Weakly-Supervised Video Moment Retrieval",
+    [
+      "Reuben Tan",
+      "Huijuan Xu",
+      "Kate Saenko",
+      "Bryan A. Plummer"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tan_LoGAN_Latent_Graph_Co-Attention_Network_for_Weakly-Supervised_Video_Moment_Retrieval_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1909.13784"
+    ]
+  ],
+  [
+    "Representation Learning From Videos In-the-Wild: An Object-Centric Approach",
+    [
+      "Rob Romijnders",
+      "Aravindh Mahendran",
+      "Michael Tschannen",
+      "Josip Djolonga",
+      "Marvin Ritter",
+      "Neil Houlsby",
+      "Mario Lucic"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Romijnders_Representation_Learning_From_Videos_In-the-Wild_An_Object-Centric_Approach_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Romijnders_Representation_Learning_From_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Noisy Concurrent Training for Efficient Learning Under Label Noise",
+    [
+      "Fahad Sarfraz",
+      "Elahe Arani",
+      "Bahram Zonooz"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sarfraz_Noisy_Concurrent_Training_for_Efficient_Learning_Under_Label_Noise_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2009.08325"
+    ]
+  ],
+  [
+    "Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution",
+    [
+      "Min-Yuan Tseng",
+      "Yen-Chung Chen",
+      "Yi-Lun Lee",
+      "Wei-Sheng Lai",
+      "Yi-Hsuan Tsai",
+      "Wei-Chen Chiu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Tseng_Dual-Stream_Fusion_Network_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Automatic Quantification of Plant Disease From Field Image Data Using Deep Learning",
+    [
+      "Kanish Garg",
+      "Swati Bhugra",
+      "Brejesh Lall"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Garg_Automatic_Quantification_of_Plant_Disease_From_Field_Image_Data_Using_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Scale Equivariance Improves Siamese Tracking",
+    [
+      "Ivan Sosnovik",
+      "Artem Moskalev",
+      "Arnold W.M. Smeulders"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sosnovik_Scale_Equivariance_Improves_Siamese_Tracking_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Sosnovik_Scale_Equivariance_Improves_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2007.09115"
+    ]
+  ],
+  [
+    "On the Generalization of Learning-Based 3D Reconstruction",
+    [
+      "Miguel Angel Bautista",
+      "Walter Talbott",
+      "Shuangfei Zhai",
+      "Nitish Srivastava",
+      "Joshua M. Susskind"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bautista_On_the_Generalization_of_Learning-Based_3D_Reconstruction_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.15427"
+    ]
+  ],
+  [
+    "Learning Data Augmentation With Online Bilevel Optimization for Image Classification",
+    [
+      "Saypraseuth Mounsaveng",
+      "Issam Laradji",
+      "Ismail Ben Ayed",
+      "David Vazquez",
+      "Marco Pedersoli"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mounsaveng_Learning_Data_Augmentation_With_Online_Bilevel_Optimization_for_Image_Classification_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mounsaveng_Learning_Data_Augmentation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2006.14699"
+    ]
+  ],
+  [
+    "Seeing Through Your Skin: Recognizing Objects With a Novel Visuotactile Sensor",
+    [
+      "Francois R. Hogan",
+      "Michael Jenkin",
+      "Sahand Rezaei-Shoshtari",
+      "Yogesh Girdhar",
+      "David Meger",
+      "Gregory Dudek"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hogan_Seeing_Through_Your_Skin_Recognizing_Objects_With_a_Novel_Visuotactile_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hogan_Seeing_Through_Your_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Audio-Visual Event Localization via Recursive Fusion by Joint Co-Attention",
+    [
+      "Bin Duan",
+      "Hao Tang",
+      "Wei Wang",
+      "Ziliang Zong",
+      "Guowei Yang",
+      "Yan Yan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Duan_Audio-Visual_Event_Localization_via_Recursive_Fusion_by_Joint_Co-Attention_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.06581"
+    ]
+  ],
+  [
+    "SWAG: Superpixels Weighted by Average Gradients for Explanations of CNNs",
+    [
+      "Thomas Hartley",
+      "Kirill Sidorov",
+      "Christopher Willis",
+      "David Marshall"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hartley_SWAG_Superpixels_Weighted_by_Average_Gradients_for_Explanations_of_CNNs_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hartley_SWAG_Superpixels_Weighted_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Keypoint-Aligned Embeddings for Image Retrieval and Re-Identification",
+    [
+      "Olga Moskvyak",
+      "Frederic Maire",
+      "Feras Dayoub",
+      "Mahsa Baktashmotlagh"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Moskvyak_Keypoint-Aligned_Embeddings_for_Image_Retrieval_and_Re-Identification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.11368"
+    ]
+  ],
+  [
+    "HealTech - A System for Predicting Patient Hospitalization Risk and Wound Progression in Old Patients",
+    [
+      "Subba Reddy Oota",
+      "Vijay Rowtula",
+      "Shahid Mohammed",
+      "Jeffrey Galitz",
+      "Minghsun Liu",
+      "Manish Gupta"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Oota_HealTech_-_A_System_for_Predicting_Patient_Hospitalization_Risk_and_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Oota_HealTech_-_A_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "A Large-Scale, Time-Synchronized Visible and Thermal Face Dataset",
+    [
+      "Domenick Poster",
+      "Matthew Thielke",
+      "Robert Nguyen",
+      "Srinivasan Rajaraman",
+      "Xing Di",
+      "Cedric Nimpa Fondje",
+      "Vishal M. Patel",
+      "Nathaniel J. Short",
+      "Benjamin S. Riggan",
+      "Nasser M. Nasrabadi",
+      "Shuowen Hu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Poster_A_Large-Scale_Time-Synchronized_Visible_and_Thermal_Face_Dataset_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "RGPNet: A Real-Time General Purpose Semantic Segmentation",
+    [
+      "Elahe Arani",
+      "Shabbir Marzban",
+      "Andrei Pata",
+      "Bahram Zonooz"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Arani_RGPNet_A_Real-Time_General_Purpose_Semantic_Segmentation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1912.01394"
+    ]
+  ],
+  [
+    "Style Transfer by Rigid Alignment in Neural Net Feature Space",
+    [
+      "Suryabhan Singh Hada",
+      "Miguel A. Carreira-Perpinan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hada_Style_Transfer_by_Rigid_Alignment_in_Neural_Net_Feature_Space_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hada_Style_Transfer_by_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Confidence-Driven Hierarchical Classification of Cultivated Plant Stresses",
+    [
+      "Logan Frank",
+      "Christopher Wiegman",
+      "Jim Davis",
+      "Scott Shearer"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Frank_Confidence-Driven_Hierarchical_Classification_of_Cultivated_Plant_Stresses_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "ADA-AT/DT: An Adversarial Approach for Cross-Domain and Cross-Task Knowledge Transfer",
+    [
+      "Ruchika Chavhan",
+      "Ankit Jha",
+      "Biplab Banerjee",
+      "Subhasis Chaudhuri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chavhan_ADA-ATDT_An_Adversarial_Approach_for_Cross-Domain_and_Cross-Task_Knowledge_Transfer_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chavhan_ADA-ATDT_An_Adversarial_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Data-Free Knowledge Distillation for Object Detection",
+    [
+      "Akshay Chawla",
+      "Hongxu Yin",
+      "Pavlo Molchanov",
+      "Jose Alvarez"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chawla_Data-Free_Knowledge_Distillation_for_Object_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chawla_Data-Free_Knowledge_Distillation_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Class Anchor Clustering: A Loss for Distance-Based Open Set Recognition",
+    [
+      "Dimity Miller",
+      "Niko Sunderhauf",
+      "Michael Milford",
+      "Feras Dayoub"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Miller_Class_Anchor_Clustering_A_Loss_for_Distance-Based_Open_Set_Recognition_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Miller_Class_Anchor_Clustering_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Deep Active Learning for Joint Classification & Segmentation With Weak Annotator",
+    [
+      "Soufiane Belharbi",
+      "Ismail Ben Ayed",
+      "Luke McCaffrey",
+      "Eric Granger"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Belharbi_Deep_Active_Learning_for_Joint_Classification__Segmentation_With_Weak_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Belharbi_Deep_Active_Learning_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.04889"
+    ]
+  ],
+  [
+    "Dynamic Plane Convolutional Occupancy Networks",
+    [
+      "Stefan Lionar",
+      "Daniil Emtsev",
+      "Dusan Svilarkovic",
+      "Songyou Peng"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lionar_Dynamic_Plane_Convolutional_Occupancy_Networks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lionar_Dynamic_Plane_Convolutional_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.05813"
+    ]
+  ],
+  [
+    "Fine-Grained Foreground Retrieval via Teacher-Student Learning",
+    [
+      "Zongze Wu",
+      "Dani Lischinski",
+      "Eli Shechtman"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wu_Fine-Grained_Foreground_Retrieval_via_Teacher-Student_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wu_Fine-Grained_Foreground_Retrieval_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Unsupervised Multimodal Video-to-Video Translation via Self-Supervised Learning",
+    [
+      "Kangning Liu",
+      "Shuhang Gu",
+      "Andres Romero",
+      "Radu Timofte"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Unsupervised_Multimodal_Video-to-Video_Translation_via_Self-Supervised_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Liu_Unsupervised_Multimodal_Video-to-Video_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2004.06502"
+    ]
+  ],
+  [
+    "Kernel Self-Attention for Weakly-Supervised Image Classification Using Deep Multiple Instance Learning",
+    [
+      "Dawid Rymarczyk",
+      "Adriana Borowa",
+      "Jacek Tabor",
+      "Bartosz Zielinski"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rymarczyk_Kernel_Self-Attention_for_Weakly-Supervised_Image_Classification_Using_Deep_Multiple_Instance_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Real-Time Gait-Based Age Estimation and Gender Classification From a Single Image",
+    [
+      "Chi Xu",
+      "Yasushi Makihara",
+      "Ruochen Liao",
+      "Hirotaka Niitsuma",
+      "Xiang Li",
+      "Yasushi Yagi",
+      "Jianfeng Lu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xu_Real-Time_Gait-Based_Age_Estimation_and_Gender_Classification_From_a_Single_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Xu_Real-Time_Gait-Based_Age_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Generative Patch Priors for Practical Compressive Image Recovery",
+    [
+      "Rushil Anirudh",
+      "Suhas Lohit",
+      "Pavan Turaga"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Anirudh_Generative_Patch_Priors_for_Practical_Compressive_Image_Recovery_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Anirudh_Generative_Patch_Priors_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2006.10873"
+    ]
+  ],
+  [
+    "ExMaps: Long-Term Localization in Dynamic Scenes Using Exponential Decay",
+    [
+      "Alexandros Rotsidis",
+      "Christof Lutteroth",
+      "Peter Hall",
+      "Christian Richardt"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rotsidis_ExMaps_Long-Term_Localization_in_Dynamic_Scenes_Using_Exponential_Decay_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "FACEGAN: Facial Attribute Controllable rEenactment GAN",
+    [
+      "Soumya Tripathy",
+      "Juho Kannala",
+      "Esa Rahtu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tripathy_FACEGAN_Facial_Attribute_Controllable_rEenactment_GAN_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.04439"
+    ]
+  ],
+  [
+    "Effective Fusion Factor in FPN for Tiny Object Detection",
+    [
+      "Yuqi Gong",
+      "Xuehui Yu",
+      "Yao Ding",
+      "Xiaoke Peng",
+      "Jian Zhao",
+      "Zhenjun Han"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Gong_Effective_Fusion_Factor_in_FPN_for_Tiny_Object_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.02298"
+    ]
+  ],
+  [
+    "Deep Interactive Thin Object Selection",
+    [
+      "Jun Hao Liew",
+      "Scott Cohen",
+      "Brian Price",
+      "Long Mai",
+      "Jiashi Feng"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liew_Deep_Interactive_Thin_Object_Selection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Liew_Deep_Interactive_Thin_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Zero-Pair Image to Image Translation Using Domain Conditional Normalization",
+    [
+      "Samarth Shukla",
+      "Andres Romero",
+      "Luc Van Gool",
+      "Radu Timofte"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shukla_Zero-Pair_Image_to_Image_Translation_Using_Domain_Conditional_Normalization_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.05680"
+    ]
+  ],
+  [
+    "RNNP: A Robust Few-Shot Learning Approach",
+    [
+      "Pratik Mazumder",
+      "Pravendra Singh",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mazumder_RNNP_A_Robust_Few-Shot_Learning_Approach_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.11067"
+    ]
+  ],
+  [
+    "An Alternative of LIDAR in Nighttime: Unsupervised Depth Estimation Based on Single Thermal Image",
+    [
+      "Yawen Lu",
+      "Guoyu Lu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lu_An_Alternative_of_LIDAR_in_Nighttime_Unsupervised_Depth_Estimation_Based_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Class-Agnostic Few-Shot Object Counting",
+    [
+      "Shuo-Diao Yang",
+      "Hung-Ting Su",
+      "Winston H. Hsu",
+      "Wen-Chin Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Class-Agnostic_Few-Shot_Object_Counting_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Self-Supervised Training for Blind Multi-Frame Video Denoising",
+    [
+      "Valery Dewil",
+      "Jeremy Anger",
+      "Axel Davy",
+      "Thibaud Ehret",
+      "Gabriele Facciolo",
+      "Pablo Arias"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Dewil_Self-Supervised_Training_for_Blind_Multi-Frame_Video_Denoising_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dewil_Self-Supervised_Training_for_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2004.06957"
+    ]
+  ],
+  [
+    "Improving Few-Shot Learning Using Composite Rotation Based Auxiliary Task",
+    [
+      "Pratik Mazumder",
+      "Pravendra Singh",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mazumder_Improving_Few-Shot_Learning_Using_Composite_Rotation_Based_Auxiliary_Task_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.15919"
+    ]
+  ],
+  [
+    "Covariance-Free Partial Least Squares: An Incremental Dimensionality Reduction Method",
+    [
+      "Artur Jordao",
+      "Maiko Lie",
+      "Victor Hugo Cunha de Melo",
+      "William Robson Schwartz"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jordao_Covariance-Free_Partial_Least_Squares_An_Incremental_Dimensionality_Reduction_Method_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1910.02319"
+    ]
+  ],
+  [
+    "OverNet: Lightweight Multi-Scale Super-Resolution With Overscaling Network",
+    [
+      "Parichehr Behjati",
+      "Pau Rodriguez",
+      "Armin Mehri",
+      "Isabelle Hupont",
+      "Carles Fernandez Tena",
+      "Jordi Gonzalez"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Behjati_OverNet_Lightweight_Multi-Scale_Super-Resolution_With_Overscaling_Network_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Behjati_OverNet_Lightweight_Multi-Scale_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2008.02382"
+    ]
+  ],
+  [
+    "One-Shot Image Recognition Using Prototypical Encoders With Reduced Hubness",
+    [
+      "Chenxi Xiao",
+      "Naveen Madapana",
+      "Juan Wachs"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xiao_One-Shot_Image_Recognition_Using_Prototypical_Encoders_With_Reduced_Hubness_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Xiao_One-Shot_Image_Recognition_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Real-Time RGBD-Based Extended Body Pose Estimation",
+    [
+      "Renat Bashirov",
+      "Anastasia Ianina",
+      "Karim Iskakov",
+      "Yevgeniy Kononenko",
+      "Valeriya Strizhkova",
+      "Victor Lempitsky",
+      "Alexander Vakhitov"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bashirov_Real-Time_RGBD-Based_Extended_Body_Pose_Estimation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Bashirov_Real-Time_RGBD-Based_Extended_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Group Softmax Loss With Discriminative Feature Grouping",
+    [
+      "Takumi Kobayashi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kobayashi_Group_Softmax_Loss_With_Discriminative_Feature_Grouping_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kobayashi_Group_Softmax_Loss_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Separable Four Points Fundamental Matrix",
+    [
+      "Gil Ben-Artzi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ben-Artzi_Separable_Four_Points_Fundamental_Matrix_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Multimodal Trajectory Predictions for Autonomous Driving Without a Detailed Prior Map",
+    [
+      "Atsushi Kawasaki",
+      "Akihito Seki"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kawasaki_Multimodal_Trajectory_Predictions_for_Autonomous_Driving_Without_a_Detailed_Prior_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kawasaki_Multimodal_Trajectory_Predictions_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Handwritten Chinese Font Generation With Collaborative Stroke Refinement",
+    [
+      "Chuan Wen",
+      "Yujie Pan",
+      "Jie Chang",
+      "Ya Zhang",
+      "Siheng Chen",
+      "Yanfeng Wang",
+      "Mei Han",
+      "Qi Tian"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wen_Handwritten_Chinese_Font_Generation_With_Collaborative_Stroke_Refinement_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Ontology-Driven Event Type Classification in Images",
+    [
+      "Eric Muller-Budack",
+      "Matthias Springstein",
+      "Sherzod Hakimov",
+      "Kevin Mrutzek",
+      "Ralph Ewerth"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Muller-Budack_Ontology-Driven_Event_Type_Classification_in_Images_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Multimodal Prototypical Networks for Few-Shot Learning",
+    [
+      "Frederik Pahde",
+      "Mihai Puscas",
+      "Tassilo Klein",
+      "Moin Nabi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Pahde_Multimodal_Prototypical_Networks_for_Few-Shot_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Pahde_Multimodal_Prototypical_Networks_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.08899"
+    ]
+  ],
+  [
+    "Temporally Consistent 3D Human Pose Estimation Using Dual 360deg Cameras",
+    [
+      "Matthew Shere",
+      "Hansung Kim",
+      "Adrian Hilton"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shere_Temporally_Consistent_3D_Human_Pose_Estimation_Using_Dual_360deg_Cameras_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "The IKEA ASM Dataset: Understanding People Assembling Furniture Through Actions, Objects and Pose",
+    [
+      "Yizhak Ben-Shabat",
+      "Xin Yu",
+      "Fatemeh Saleh",
+      "Dylan Campbell",
+      "Cristian Rodriguez-Opazo",
+      "Hongdong Li",
+      "Stephen Gould"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ben-Shabat_The_IKEA_ASM_Dataset_Understanding_People_Assembling_Furniture_Through_Actions_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Vid2Int: Detecting Implicit Intention From Long Dialog Videos",
+    [
+      "Xiaoli Xu",
+      "Yao Lu",
+      "Zhiwu Lu",
+      "Tao Xiang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xu_Vid2Int_Detecting_Implicit_Intention_From_Long_Dialog_Videos_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Xu_Vid2Int_Detecting_Implicit_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "This Face Does Not Exist... But It Might Be Yours! Identity Leakage in Generative Models",
+    [
+      "Patrick Tinsley",
+      "Adam Czajka",
+      "Patrick Flynn"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tinsley_This_Face_Does_Not_Exist..._But_It_Might_Be_Yours_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation",
+    [
+      "Taotao Jing",
+      "Zhengming Ding"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jing_Adversarial_Dual_Distinct_Classifiers_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.11878"
+    ]
+  ],
+  [
+    "Improving Point Cloud Semantic Segmentation by Learning 3D Object Detection",
+    [
+      "Ozan Unal",
+      "Luc Van Gool",
+      "Dengxin Dai"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Unal_Improving_Point_Cloud_Semantic_Segmentation_by_Learning_3D_Object_Detection_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2009.10569"
+    ]
+  ],
+  [
+    "Optimistic Agent: Accurate Graph-Based Value Estimation for More Successful Visual Navigation",
+    [
+      "Mahdi Kazemi Moghaddam",
+      "Qi Wu",
+      "Ehsan Abbasnejad",
+      "Javen Shi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Moghaddam_Optimistic_Agent_Accurate_Graph-Based_Value_Estimation_for_More_Successful_Visual_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2004.03222"
+    ]
+  ],
+  [
+    "Local to Global: Efficient Visual Localization for a Monocular Camera",
+    [
+      "Sang Jun Lee",
+      "Deokhwa Kim",
+      "Sung Soo Hwang",
+      "Donghwan Lee"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Local_to_Global_Efficient_Visual_Localization_for_a_Monocular_Camera_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lee_Local_to_Global_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "The Laughing Machine: Predicting Humor in Video",
+    [
+      "Yuta Kayatani",
+      "Zekun Yang",
+      "Mayu Otani",
+      "Noa Garcia",
+      "Chenhui Chu",
+      "Yuta Nakashima",
+      "Haruo Takemura"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kayatani_The_Laughing_Machine_Predicting_Humor_in_Video_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Transductive Visual Verb Sense Disambiguation",
+    [
+      "Sebastiano Vascon",
+      "Sinem Aslan",
+      "Gianluca Bigaglia",
+      "Lorenzo Giudice",
+      "Marcello Pelillo"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Vascon_Transductive_Visual_Verb_Sense_Disambiguation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.10821"
+    ]
+  ],
+  [
+    "Multi-Loss Weighting With Coefficient of Variations",
+    [
+      "Rick Groenendijk",
+      "Sezer Karaoglu",
+      "Theo Gevers",
+      "Thomas Mensink"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Groenendijk_Multi-Loss_Weighting_With_Coefficient_of_Variations_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Groenendijk_Multi-Loss_Weighting_With_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.01717"
+    ]
+  ],
+  [
+    "De-Biasing Neural Networks With Estimated Offset for Class Imbalanced Learning",
+    [
+      "Byungju Kim",
+      "Hyeong Gwon Hong",
+      "Junmo Kim"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kim_De-Biasing_Neural_Networks_With_Estimated_Offset_for_Class_Imbalanced_Learning_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Oriented Object Detection in Aerial Images With Box Boundary-Aware Vectors",
+    [
+      "Jingru Yi",
+      "Pengxiang Wu",
+      "Bo Liu",
+      "Qiaoying Huang",
+      "Hui Qu",
+      "Dimitris Metaxas"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yi_Oriented_Object_Detection_in_Aerial_Images_With_Box_Boundary-Aware_Vectors_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.07043"
+    ]
+  ],
+  [
+    "IncreACO: Incrementally Learned Automatic Check-Out With Photorealistic Exemplar Augmentation",
+    [
+      "Yandan Yang",
+      "Lu Sheng",
+      "Xiaolong Jiang",
+      "Haochen Wang",
+      "Dong Xu",
+      "Xianbin Cao"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_IncreACO_Incrementally_Learned_Automatic_Check-Out_With_Photorealistic_Exemplar_Augmentation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Understanding the Impact of Mistakes on Background Regions in Crowd Counting",
+    [
+      "Davide Modolo",
+      "Bing Shuai",
+      "Rahul Rama Varior",
+      "Joseph Tighe"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Modolo_Understanding_the_Impact_of_Mistakes_on_Background_Regions_in_Crowd_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2003.13759"
+    ]
+  ],
+  [
+    "Temporal-Aware Self-Supervised Learning for 3D Hand Pose and Mesh Estimation in Videos",
+    [
+      "Liangjian Chen",
+      "Shih-Yao Lin",
+      "Yusheng Xie",
+      "Yen-Yu Lin",
+      "Xiaohui Xie"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Temporal-Aware_Self-Supervised_Learning_for_3D_Hand_Pose_and_Mesh_Estimation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.03205"
+    ]
+  ],
+  [
+    "Saliency Prediction With External Knowledge",
+    [
+      "Yifeng Zhang",
+      "Ming Jiang",
+      "Qi Zhao"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Saliency_Prediction_With_External_Knowledge_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2007.13839"
+    ]
+  ],
+  [
+    "SuPEr-SAM: Using the Supervision Signal From a Pose Estimator to Train a Spatial Attention Module for Personal Protective Equipment Recognition",
+    [
+      "Adrian Sandru",
+      "Georgian-Emilian Duta",
+      "Mariana-Iuliana Georgescu",
+      "Radu Tudor Ionescu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sandru_SuPEr-SAM_Using_the_Supervision_Signal_From_a_Pose_Estimator_to_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "A Unified Framework for Compressive Video Recovery From Coded Exposure Techniques",
+    [
+      "Prasan Shedligeri",
+      "Anupama S",
+      "Kaushik Mitra"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shedligeri_A_Unified_Framework_for_Compressive_Video_Recovery_From_Coded_Exposure_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Shedligeri_A_Unified_Framework_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.05532"
+    ]
+  ],
+  [
+    "Deep Unsupervised Anomaly Detection",
+    [
+      "Tangqing Li",
+      "Zheng Wang",
+      "Siying Liu",
+      "Wen-Yan Lin"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Deep_Unsupervised_Anomaly_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Li_Deep_Unsupervised_Anomaly_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Disentangled Contour Learning for Quadrilateral Text Detection",
+    [
+      "Yanguang Bi",
+      "Zhiqiang Hu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bi_Disentangled_Contour_Learning_for_Quadrilateral_Text_Detection_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "DynaVSR: Dynamic Adaptive Blind Video Super-Resolution",
+    [
+      "Suyoung Lee",
+      "Myungsub Choi",
+      "Kyoung Mu Lee"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lee_DynaVSR_Dynamic_Adaptive_Blind_Video_Super-Resolution_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lee_DynaVSR_Dynamic_Adaptive_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.04482"
+    ]
+  ],
+  [
+    "MEVA: A Large-Scale Multiview, Multimodal Video Dataset for Activity Detection",
+    [
+      "Kellie Corona",
+      "Katie Osterdahl",
+      "Roderic Collins",
+      "Anthony Hoogs"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Corona_MEVA_A_Large-Scale_Multiview_Multimodal_Video_Dataset_for_Activity_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Corona_MEVA_A_Large-Scale_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2012.00914"
+    ]
+  ],
+  [
+    "Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples",
+    [
+      "Shehzeen Hussain",
+      "Paarth Neekhara",
+      "Malhar Jere",
+      "Farinaz Koushanfar",
+      "Julian McAuley"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hussain_Adversarial_Deepfakes_Evaluating_Vulnerability_of_Deepfake_Detectors_to_Adversarial_Examples_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2002.12749"
+    ]
+  ],
+  [
+    "PNPDet: Efficient Few-Shot Detection Without Forgetting via Plug-and-Play Sub-Networks",
+    [
+      "Gongjie Zhang",
+      "Kaiwen Cui",
+      "Rongliang Wu",
+      "Shijian Lu",
+      "Yonghong Tian"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_PNPDet_Efficient_Few-Shot_Detection_Without_Forgetting_via_Plug-and-Play_Sub-Networks_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Conflicting Bundles: Adapting Architectures Towards the Improved Training of Deep Neural Networks",
+    [
+      "David Peer",
+      "Sebastian Stabinger",
+      "Antonio Rodriguez-Sanchez"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Peer_Conflicting_Bundles_Adapting_Architectures_Towards_the_Improved_Training_of_Deep_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Peer_Conflicting_Bundles_Adapting_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Multi Projection Fusion for Real-Time Semantic Segmentation of 3D LiDAR Point Clouds",
+    [
+      "Yara Ali Alnaggar",
+      "Mohamed Afifi",
+      "Karim Amer",
+      "Mohamed ElHelw"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Alnaggar_Multi_Projection_Fusion_for_Real-Time_Semantic_Segmentation_of_3D_LiDAR_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.01974"
+    ]
+  ],
+  [
+    "Cinematic-L1 Video Stabilization With a Log-Homography Model",
+    [
+      "Arwen Bradley",
+      "Jason Klivington",
+      "Joseph Triscari",
+      "Rudolph van der Merwe"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bradley_Cinematic-L1_Video_Stabilization_With_a_Log-Homography_Model_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Bradley_Cinematic-L1_Video_Stabilization_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.08144"
+    ]
+  ],
+  [
+    "Temporal Context Aggregation for Video Retrieval With Contrastive Learning",
+    [
+      "Jie Shao",
+      "Xin Wen",
+      "Bingchen Zhao",
+      "Xiangyang Xue"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shao_Temporal_Context_Aggregation_for_Video_Retrieval_With_Contrastive_Learning_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.01334"
+    ]
+  ],
+  [
+    "TrustMAE: A Noise-Resilient Defect Classification Framework Using Memory-Augmented Auto-Encoders With Trust Regions",
+    [
+      "Daniel Stanley Tan",
+      "Yi-Chun Chen",
+      "Trista Pei-Chun Chen",
+      "Wei-Chao Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tan_TrustMAE_A_Noise-Resilient_Defect_Classification_Framework_Using_Memory-Augmented_Auto-Encoders_With_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Tan_TrustMAE_A_Noise-Resilient_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Visual Speech Enhancement Without a Real Visual Stream",
+    [
+      "Sindhu B. Hegde",
+      "K.R. Prajwal",
+      "Rudrabha Mukhopadhyay",
+      "Vinay P. Namboodiri",
+      "C.V. Jawahar"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hegde_Visual_Speech_Enhancement_Without_a_Real_Visual_Stream_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.10852"
+    ]
+  ],
+  [
+    "Dynamic Routing Networks",
+    [
+      "Shaofeng Cai",
+      "Yao Shu",
+      "Wei Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Cai_Dynamic_Routing_Networks_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1905.04849"
+    ]
+  ],
+  [
+    "Foreground Color Prediction Through Inverse Compositing",
+    [
+      "Sebastian Lutz",
+      "Aljosa Smolic"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lutz_Foreground_Color_Prediction_Through_Inverse_Compositing_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lutz_Foreground_Color_Prediction_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Reducing the Annotation Effort for Video Object Segmentation Datasets",
+    [
+      "Paul Voigtlaender",
+      "Lishu Luo",
+      "Chun Yuan",
+      "Yong Jiang",
+      "Bastian Leibe"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Voigtlaender_Reducing_the_Annotation_Effort_for_Video_Object_Segmentation_Datasets_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Voigtlaender_Reducing_the_Annotation_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.01142"
+    ]
+  ],
+  [
+    "Style Consistent Image Generation for Nuclei Instance Segmentation",
+    [
+      "Xuan Gong",
+      "Shuyan Chen",
+      "Baochang Zhang",
+      "David Doermann"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Gong_Style_Consistent_Image_Generation_for_Nuclei_Instance_Segmentation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "FlowCaps: Optical Flow Estimation With Capsule Networks for Action Recognition",
+    [
+      "Vinoj Jayasundara",
+      "Debaditya Roy",
+      "Basura Fernando"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jayasundara_FlowCaps_Optical_Flow_Estimation_With_Capsule_Networks_for_Action_Recognition_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.03958"
+    ]
+  ],
+  [
+    "Legacy Photo Editing With Learned Noise Prior",
+    [
+      "Yuzhi Zhao",
+      "Lai-Man Po",
+      "Tingyu Lin",
+      "Xuehui Wang",
+      "Kangcheng Liu",
+      "Yujia Zhang",
+      "Wing-Yin Yu",
+      "Pengfei Xian",
+      "Jingjing Xiong"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Legacy_Photo_Editing_With_Learned_Noise_Prior_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "AdarGCN: Adaptive Aggregation GCN for Few-Shot Learning",
+    [
+      "Jianhong Zhang",
+      "Manli Zhang",
+      "Zhiwu Lu",
+      "Tao Xiang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_AdarGCN_Adaptive_Aggregation_GCN_for_Few-Shot_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Zhang_AdarGCN_Adaptive_Aggregation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2002.12641"
+    ]
+  ],
+  [
+    "Misclassification Risk and Uncertainty Quantification in Deep Classifiers",
+    [
+      "Murat Sensoy",
+      "Maryam Saleki",
+      "Simon Julier",
+      "Reyhan Aydogan",
+      "John Reid"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sensoy_Misclassification_Risk_and_Uncertainty_Quantification_in_Deep_Classifiers_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "A Vector-Based Representation to Enhance Head Pose Estimation",
+    [
+      "Zhiwen Cao",
+      "Zongcheng Chu",
+      "Dongfang Liu",
+      "Yingjie Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chu_A_Vector-Based_Representation_to_Enhance_Head_Pose_Estimation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.07184"
+    ]
+  ],
+  [
+    "Automatic Open-World Reliability Assessment",
+    [
+      "Mohsen Jafarzadeh",
+      "Touqeer Ahmad",
+      "Akshay Raj Dhamija",
+      "Chunchun Li",
+      "Steve Cruz",
+      "Terrance E. Boult"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jafarzadeh_Automatic_Open-World_Reliability_Assessment_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Jafarzadeh_Automatic_Open-World_Reliability_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.05506"
+    ]
+  ],
+  [
+    "SSGP: Sparse Spatial Guided Propagation for Robust and Generic Interpolation",
+    [
+      "Rene Schuster",
+      "Oliver Wasenmuller",
+      "Christian Unger",
+      "Didier Stricker"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Schuster_SSGP_Sparse_Spatial_Guided_Propagation_for_Robust_and_Generic_Interpolation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.09346"
+    ]
+  ],
+  [
+    "Compositional Learning of Image-Text Query for Image Retrieval",
+    [
+      "Muhammad Umer Anwaar",
+      "Egor Labintcev",
+      "Martin Kleinsteuber"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Anwaar_Compositional_Learning_of_Image-Text_Query_for_Image_Retrieval_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Anwaar_Compositional_Learning_of_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2006.11149"
+    ]
+  ],
+  [
+    "Object Recognition With Continual Open Set Domain Adaptation for Home Robot",
+    [
+      "Ikki Kishida",
+      "Hong Chen",
+      "Masaki Baba",
+      "Jiren Jin",
+      "Ayako Amma",
+      "Hideki Nakayama"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kishida_Object_Recognition_With_Continual_Open_Set_Domain_Adaptation_for_Home_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kishida_Object_Recognition_With_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "MoRe: A Large-Scale Motorcycle Re-Identification Dataset",
+    [
+      "Augusto Figueiredo",
+      "Johnata Brayan",
+      "Renan Oliveira Reis",
+      "Raphael Prates",
+      "William Robson Schwartz"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Figueiredo_MoRe_A_Large-Scale_Motorcycle_Re-Identification_Dataset_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Have Fun Storming the Castle(s)!",
+    [
+      "Connor Anderson",
+      "Adam Teuscher",
+      "Elizabeth Anderson",
+      "Alysia Larsen",
+      "Josh Shirley",
+      "Ryan Farrell"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Anderson_Have_Fun_Storming_the_Castles_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Whose Hand Is This? Person Identification From Egocentric Hand Gestures",
+    [
+      "Satoshi Tsutsui",
+      "Yanwei Fu",
+      "David J. Crandall"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tsutsui_Whose_Hand_Is_This_Person_Identification_From_Egocentric_Hand_Gestures_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Tsutsui_Whose_Hand_Is_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.08900"
+    ]
+  ],
+  [
+    "Multi-Level Generative Chaotic Recurrent Network for Image Inpainting",
+    [
+      "Cong Chen",
+      "Amos Abbott",
+      "Daniel Stilwell"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Multi-Level_Generative_Chaotic_Recurrent_Network_for_Image_Inpainting_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Self-Supervised Poisson-Gaussian Denoising",
+    [
+      "Wesley Khademi",
+      "Sonia Rao",
+      "Clare Minnerath",
+      "Guy Hagen",
+      "Jonathan Ventura"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Khademi_Self-Supervised_Poisson-Gaussian_Denoising_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Khademi_Self-Supervised_Poisson-Gaussian_Denoising_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2002.09558"
+    ]
+  ],
+  [
+    "SMPLpix: Neural Avatars From 3D Human Models",
+    [
+      "Sergey Prokudin",
+      "Michael J. Black",
+      "Javier Romero"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Prokudin_SMPLpix_Neural_Avatars_From_3D_Human_Models_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.06872"
+    ]
+  ],
+  [
+    "Multi-Modal Trajectory Prediction of NBA Players",
+    [
+      "Sandro Hauri",
+      "Nemanja Djuric",
+      "Vladan Radosavljevic",
+      "Slobodan Vucetic"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hauri_Multi-Modal_Trajectory_Prediction_of_NBA_Players_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hauri_Multi-Modal_Trajectory_Prediction_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2008.07870"
+    ]
+  ],
+  [
+    "Multi-Frame Recurrent Adversarial Network for Moving Object Segmentation",
+    [
+      "Prashant W. Patil",
+      "Akshay Dudhane",
+      "Subrahmanyam Murala"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Patil_Multi-Frame_Recurrent_Adversarial_Network_for_Moving_Object_Segmentation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Autonomous Tracking for Volumetric Video Sequences",
+    [
+      "Matthew Moynihan",
+      "Susana Ruano",
+      "Rafael Pages",
+      "Aljosa Smolic"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Moynihan_Autonomous_Tracking_for_Volumetric_Video_Sequences_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Moynihan_Autonomous_Tracking_for_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "EDEN: Multimodal Synthetic Dataset of Enclosed GarDEN Scenes",
+    [
+      "Hoang-An Le",
+      "Thomas Mensink",
+      "Partha Das",
+      "Sezer Karaoglu",
+      "Theo Gevers"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Le_EDEN_Multimodal_Synthetic_Dataset_of_Enclosed_GarDEN_Scenes_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.04389"
+    ]
+  ],
+  [
+    "Single Image Reflection Removal With Edge Guidance, Reflection Classifier, and Recurrent Decomposition",
+    [
+      "Ya-Chu Chang",
+      "Chia-Ni Lu",
+      "Chia-Chi Cheng",
+      "Wei-Chen Chiu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chang_Single_Image_Reflection_Removal_With_Edge_Guidance_Reflection_Classifier_and_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chang_Single_Image_Reflection_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Utilizing Every Image Object for Semi-Supervised Phrase Grounding",
+    [
+      "Haidong Zhu",
+      "Arka Sadhu",
+      "Zhaoheng Zheng",
+      "Ram Nevatia"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_Utilizing_Every_Image_Object_for_Semi-Supervised_Phrase_Grounding_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.02655"
+    ]
+  ],
+  [
+    "Guided Attentive Feature Fusion for Multispectral Pedestrian Detection",
+    [
+      "Heng Zhang",
+      "Elisa Fromont",
+      "Sebastien Lefevre",
+      "Bruno Avignon"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Guided_Attentive_Feature_Fusion_for_Multispectral_Pedestrian_Detection_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Learning of Low-Level Feature Keypoints for Accurate and Robust Detection",
+    [
+      "Suwichaya Suwanwimolkul",
+      "Satoshi Komorita",
+      "Kazuyuki Tasaka"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Suwanwimolkul_Learning_of_Low-Level_Feature_Keypoints_for_Accurate_and_Robust_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Suwanwimolkul_Learning_of_Low-Level_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Receptive Field Size Optimization With Continuous Time Pooling",
+    [
+      "Dora Babicz",
+      "Soma Kontar",
+      "Mark Peto",
+      "Andras Fulop",
+      "Gergely Szabo",
+      "Andras Horvath"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Babicz_Receptive_Field_Size_Optimization_With_Continuous_Time_Pooling_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Babicz_Receptive_Field_Size_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.00869"
+    ]
+  ],
+  [
+    "AI on the Bog: Monitoring and Evaluating Cranberry Crop Risk",
+    [
+      "Peri Akiva",
+      "Benjamin Planche",
+      "Aditi Roy",
+      "Kristin Dana",
+      "Peter Oudemans",
+      "Michael Mars"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Akiva_AI_on_the_Bog_Monitoring_and_Evaluating_Cranberry_Crop_Risk_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.04064"
+    ]
+  ],
+  [
+    "Exploration of Spatial and Temporal Modeling Alternatives for HOI",
+    [
+      "Rishabh Dabral",
+      "Srijon Sarkar",
+      "Sai Praneeth Reddy",
+      "Ganesh Ramakrishnan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Dabral_Exploration_of_Spatial_and_Temporal_Modeling_Alternatives_for_HOI_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dabral_Exploration_of_Spatial_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Mask Selection and Propagation for Unsupervised Video Object Segmentation",
+    [
+      "Shubhika Garg",
+      "Vidit Goel"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Garg_Mask_Selection_and_Propagation_for_Unsupervised_Video_Object_Segmentation_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Where to Look?: Mining Complementary Image Regions for Weakly Supervised Object Localization",
+    [
+      "Sadbhavana Babar",
+      "Sukhendu Das"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Babar_Where_to_Look_Mining_Complementary_Image_Regions_for_Weakly_Supervised_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Babar_Where_to_Look_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "RefineLoc: Iterative Refinement for Weakly-Supervised Action Localization",
+    [
+      "Alejandro Pardo",
+      "Humam Alwassel",
+      "Fabian Caba",
+      "Ali Thabet",
+      "Bernard Ghanem"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Pardo_RefineLoc_Iterative_Refinement_for_Weakly-Supervised_Action_Localization_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Pardo_RefineLoc_Iterative_Refinement_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1904.00227"
+    ]
+  ],
+  [
+    "MinkLoc3D: Point Cloud Based Large-Scale Place Recognition",
+    [
+      "Jacek Komorowski"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Komorowski_MinkLoc3D_Point_Cloud_Based_Large-Scale_Place_Recognition_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Komorowski_MinkLoc3D_Point_Cloud_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.04530"
+    ]
+  ],
+  [
+    "Towards Precise Intra-Camera Supervised Person Re-Identification",
+    [
+      "Menglin Wang",
+      "Baisheng Lai",
+      "Haokun Chen",
+      "Jianqiang Huang",
+      "Xiaojin Gong",
+      "Xian-Sheng Hua"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Towards_Precise_Intra-Camera_Supervised_Person_Re-Identification_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2002.04932"
+    ]
+  ],
+  [
+    "Structured Visual Search via Composition-Aware Learning",
+    [
+      "Mert Kilickaya",
+      "Arnold W.M. Smeulders"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kilickaya_Structured_Visual_Search_via_Composition-Aware_Learning_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.14438"
+    ]
+  ],
+  [
+    "Learning to Distill Convolutional Features Into Compact Local Descriptors",
+    [
+      "Jongmin Lee",
+      "Yoonwoo Jeong",
+      "Seungwook Kim",
+      "Juhong Min",
+      "Minsu Cho"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lee_Learning_to_Distill_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Spatial Context-Aware Self-Attention Model for Multi-Organ Segmentation",
+    [
+      "Hao Tang",
+      "Xingwei Liu",
+      "Kun Han",
+      "Xiaohui Xie",
+      "Xuming Chen",
+      "Huang Qian",
+      "Yong Liu",
+      "Shanlin Sun",
+      "Narisu Bai"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tang_Spatial_Context-Aware_Self-Attention_Model_for_Multi-Organ_Segmentation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.09279"
+    ]
+  ],
+  [
+    "2D to 3D Medical Image Colorization",
+    [
+      "Aradhya Neeraj Mathur",
+      "Apoorv Khattar",
+      "Ojaswa Sharma"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mathur_2D_to_3D_Medical_Image_Colorization_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mathur_2D_to_3D_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "IGSSTRCF: Importance Guided Sparse Spatio-Temporal Regularized Correlation Filters for Tracking",
+    [
+      "Monika Jain",
+      "A. V. Subramanyam",
+      "Simon Denman",
+      "Sridha Sridharan",
+      "Clinton Fookes"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jain_IGSSTRCF_Importance_Guided_Sparse_Spatio-Temporal_Regularized_Correlation_Filters_for_Tracking_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Jain_IGSSTRCF_Importance_Guided_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment",
+    [
+      "Fangwen Shu",
+      "Paul Lesur",
+      "Yaxu Xie",
+      "Alain Pagani",
+      "Didier Stricker"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shu_SLAM_in_the_Field_An_Evaluation_of_Monocular_Mapping_and_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Shu_SLAM_in_the_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.01122"
+    ]
+  ],
+  [
+    "Self-Supervised Visual-LiDAR Odometry With Flip Consistency",
+    [
+      "Bin Li",
+      "Mu Hu",
+      "Shuling Wang",
+      "Lianghao Wang",
+      "Xiaojin Gong"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Self-Supervised_Visual-LiDAR_Odometry_With_Flip_Consistency_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "DB-GAN: Boosting Object Recognition Under Strong Lighting Conditions",
+    [
+      "Luca Minciullo",
+      "Fabian Manhardt",
+      "Kei Yoshikawa",
+      "Sven Meier",
+      "Federico Tombari",
+      "Norimasa Kobori"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Minciullo_DB-GAN_Boosting_Object_Recognition_Under_Strong_Lighting_Conditions_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Minciullo_DB-GAN_Boosting_Object_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Deep Preset: Blending and Retouching Photos With Color Style Transfer",
+    [
+      "Man M. Ho",
+      "Jinjia Zhou"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ho_Deep_Preset_Blending_and_Retouching_Photos_With_Color_Style_Transfer_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ho_Deep_Preset_Blending_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2007.10701"
+    ]
+  ],
+  [
+    "Benefiting From Bicubically Down-Sampled Images for Learning Real-World Image Super-Resolution",
+    [
+      "Mohammad Saeed Rad",
+      "Thomas Yu",
+      "Claudiu Musat",
+      "Hazim Kemal Ekenel",
+      "Behzad Bozorgtabar",
+      "Jean-Philippe Thiran"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rad_Benefiting_From_Bicubically_Down-Sampled_Images_for_Learning_Real-World_Image_Super-Resolution_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Rad_Benefiting_From_Bicubically_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2007.03053"
+    ]
+  ],
+  [
+    "CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing",
+    [
+      "Myung-Joon Kwon",
+      "In-Jae Yu",
+      "Seung-Hun Nam",
+      "Heung-Kyu Lee"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kwon_CAT-Net_Compression_Artifact_Tracing_Network_for_Detection_and_Localization_of_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Fusion Learning Using Semantics and Graph Convolutional Network for Visual Food Recognition",
+    [
+      "Heng Zhao",
+      "Kim-Hui Yap",
+      "Alex Chichung Kot"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhao_Fusion_Learning_Using_Semantics_and_Graph_Convolutional_Network_for_Visual_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Exploiting Spatial Relation for Reducing Distortion in Style Transfer",
+    [
+      "Jia-Ren Chang",
+      "Yong-Sheng Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chang_Exploiting_Spatial_Relation_for_Reducing_Distortion_in_Style_Transfer_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chang_Exploiting_Spatial_Relation_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Overcomplete Deep Subspace Clustering Networks",
+    [
+      "Jeya Maria Jose Valanarasu",
+      "Vishal M. Patel"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Valanarasu_Overcomplete_Deep_Subspace_Clustering_Networks_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.08306"
+    ]
+  ],
+  [
+    "Asymmetric Contextual Modulation for Infrared Small Target Detection",
+    [
+      "Yimian Dai",
+      "Yiquan Wu",
+      "Fei Zhou",
+      "Kobus Barnard"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dai_Asymmetric_Contextual_Modulation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.14530"
+    ]
+  ],
+  [
+    "Global Table Extractor (GTE): A Framework for Joint Table Identification and Cell Structure Recognition Using Visual Context",
+    [
+      "Xinyi Zheng",
+      "Douglas Burdick",
+      "Lucian Popa",
+      "Xu Zhong",
+      "Nancy Xin Ru Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Zheng_Global_Table_Extractor_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2005.00589"
+    ]
+  ],
+  [
+    "Active Learning for Bayesian 3D Hand Pose Estimation",
+    [
+      "Razvan Caramalau",
+      "Binod Bhattarai",
+      "Tae-Kyun Kim"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Caramalau_Active_Learning_for_Bayesian_3D_Hand_Pose_Estimation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2010.00694"
+    ]
+  ],
+  [
+    "Red Carpet to Fight Club: Partially-Supervised Domain Transfer for Face Recognition in Violent Videos",
+    [
+      "Yunus Can Bilge",
+      "Mehmet Kerim Yucel",
+      "Ramazan Gokberk Cinbis",
+      "Nazli Ikizler-Cinbis",
+      "Pinar Duygulu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bilge_Red_Carpet_to_Fight_Club_Partially-Supervised_Domain_Transfer_for_Face_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Bilge_Red_Carpet_to_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.07576"
+    ]
+  ],
+  [
+    "TracKlinic: Diagnosis of Challenge Factors in Visual Tracking",
+    [
+      "Heng Fan",
+      "Fan Yang",
+      "Peng Chu",
+      "Yuewei Lin",
+      "Lin Yuan",
+      "Haibin Ling"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Fan_TracKlinic_Diagnosis_of_Challenge_Factors_in_Visual_Tracking_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Fan_TracKlinic_Diagnosis_of_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/1911.07959"
+    ]
+  ],
+  [
+    "SynDistNet: Self-Supervised Monocular Fisheye Camera Distance Estimation Synergized With Semantic Segmentation for Autonomous Driving",
+    [
+      "Varun Ravi Kumar",
+      "Marvin Klingner",
+      "Senthil Yogamani",
+      "Stefan Milz",
+      "Tim Fingscheidt",
+      "Patrick Mader"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kumar_SynDistNet_Self-Supervised_Monocular_Fisheye_Camera_Distance_Estimation_Synergized_With_Semantic_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Kumar_SynDistNet_Self-Supervised_Monocular_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2008.04017"
+    ]
+  ],
+  [
+    "Video Captioning of Future Frames",
+    [
+      "Mehrdad Hosseinzadeh",
+      "Yang Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hosseinzadeh_Video_Captioning_of_Future_Frames_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "CIT-GAN: Cyclic Image Translation Generative Adversarial Network With Application in Iris Presentation Attack Detection",
+    [
+      "Shivangi Yadav",
+      "Arun Ross"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yadav_CIT-GAN_Cyclic_Image_Translation_Generative_Adversarial_Network_With_Application_in_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Representation Learning Through Latent Canonicalizations",
+    [
+      "Or Litany",
+      "Ari Morcos",
+      "Srinath Sridhar",
+      "Leonidas Guibas",
+      "Judy Hoffman"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Litany_Representation_Learning_Through_Latent_Canonicalizations_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Litany_Representation_Learning_Through_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2002.11829"
+    ]
+  ],
+  [
+    "A Weakly Supervised Consistency-Based Learning Method for COVID-19 Segmentation in CT Images",
+    [
+      "Issam Laradji",
+      "Pau Rodriguez",
+      "Oscar Manas",
+      "Keegan Lensink",
+      "Marco Law",
+      "Lironne Kurzman",
+      "William Parker",
+      "David Vazquez",
+      "Derek Nowrouzezahrai"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Laradji_A_Weakly_Supervised_Consistency-Based_Learning_Method_for_COVID-19_Segmentation_in_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2007.02180"
+    ]
+  ],
+  [
+    "Generalized Object Detection on Fisheye Cameras for Autonomous Driving: Dataset, Representations and Baseline",
+    [
+      "Hazem Rashed",
+      "Eslam Mohamed",
+      "Ganesh Sistu",
+      "Varun Ravi Kumar",
+      "Ciaran Eising",
+      "Ahmad El-Sallab",
+      "Senthil Yogamani"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rashed_Generalized_Object_Detection_on_Fisheye_Cameras_for_Autonomous_Driving_Dataset_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.02124"
+    ]
+  ],
+  [
+    "A Pose Proposal and Refinement Network for Better 6D Object Pose Estimation",
+    [
+      "Ameni Trabelsi",
+      "Mohamed Chaabane",
+      "Nathaniel Blanchard",
+      "Ross Beveridge"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Trabelsi_A_Pose_Proposal_and_Refinement_Network_for_Better_6D_Object_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Trabelsi_A_Pose_Proposal_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Meta Module Network for Compositional Visual Reasoning",
+    [
+      "Wenhu Chen",
+      "Zhe Gan",
+      "Linjie Li",
+      "Yu Cheng",
+      "William Wang",
+      "Jingjing Liu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Meta_Module_Network_for_Compositional_Visual_Reasoning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chen_Meta_Module_Network_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1910.03230"
+    ]
+  ],
+  [
+    "Adaptiope: A Modern Benchmark for Unsupervised Domain Adaptation",
+    [
+      "Tobias Ringwald",
+      "Rainer Stiefelhagen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ringwald_Adaptiope_A_Modern_Benchmark_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ringwald_Adaptiope_A_Modern_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "SinGAN-GIF: Learning a Generative Video Model From a Single GIF",
+    [
+      "Rajat Arora",
+      "Yong Jae Lee"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Arora_SinGAN-GIF_Learning_a_Generative_Video_Model_From_a_Single_GIF_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration",
+    [
+      "Yaroslava Lochman",
+      "Oles Dobosevych",
+      "Rostyslav Hryniv",
+      "James Pritts"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Lochman_Minimal_Solvers_for_Single-View_Lens-Distorted_Camera_Auto-Calibration_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Lochman_Minimal_Solvers_for_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.08988"
+    ]
+  ],
+  [
+    "Let's Get Dirty: GAN Based Data Augmentation for Camera Lens Soiling Detection in Autonomous Driving",
+    [
+      "Michal Uricar",
+      "Ganesh Sistu",
+      "Hazem Rashed",
+      "Antonin Vobecky",
+      "Varun Ravi Kumar",
+      "Pavel Krizek",
+      "Fabian Burger",
+      "Senthil Yogamani"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Uricar_Lets_Get_Dirty_GAN_Based_Data_Augmentation_for_Camera_Lens_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Uricar_Lets_Get_Dirty_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Single Image Human Proxemics Estimation for Visual Social Distancing",
+    [
+      "Maya Aghaei",
+      "Matteo Bustreo",
+      "Yiming Wang",
+      "Gianluca Bailo",
+      "Pietro Morerio",
+      "Alessio Del Bue"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Aghaei_Single_Image_Human_Proxemics_Estimation_for_Visual_Social_Distancing_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Aghaei_Single_Image_Human_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.02018"
+    ]
+  ],
+  [
+    "DeepMark++: Real-Time Clothing Detection at the Edge",
+    [
+      "Alexey Sidnev",
+      "Alexander Krapivin",
+      "Alexey Trushkov",
+      "Ekaterina Krasikova",
+      "Maxim Kazakov",
+      "Mikhail Viryasov"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sidnev_DeepMark_Real-Time_Clothing_Detection_at_the_Edge_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Detecting Human-Object Interaction With Mixed Supervision",
+    [
+      "Suresh Kirthi Kumaraswamy",
+      "Miaojing Shi",
+      "Ewa Kijak"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kumaraswamy_Detecting_Human-Object_Interaction_With_Mixed_Supervision_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.04971"
+    ]
+  ],
+  [
+    "Embedded Dense Camera Trajectories in Multi-Video Image Mosaics by Geodesic Interpolation-Based Reintegration",
+    [
+      "Lars Haalck",
+      "Benjamin Risse"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Haalck_Embedded_Dense_Camera_Trajectories_in_Multi-Video_Image_Mosaics_by_Geodesic_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Self Supervision for Attention Networks",
+    [
+      "Badri N. Patro",
+      "Kasturi G.S.",
+      "Ansh Jain",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Patro_Self_Supervision_for_Attention_Networks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Patro_Self_Supervision_for_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "QuadroNet: Multi-Task Learning for Real-Time Semantic Depth Aware Instance Segmentation",
+    [
+      "Kratarth Goel",
+      "Praveen Srinivasan",
+      "Sarah Tariq",
+      "James Philbin"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Goel_QuadroNet_Multi-Task_Learning_for_Real-Time_Semantic_Depth_Aware_Instance_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Goel_QuadroNet_Multi-Task_Learning_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "3D Human Pose and Shape Estimation Through Collaborative Learning and Multi-View Model-Fitting",
+    [
+      "Zhongguo Li",
+      "Magnus Oskarsson",
+      "Anders Heyden"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_3D_Human_Pose_and_Shape_Estimation_Through_Collaborative_Learning_and_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Li_3D_Human_Pose_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Temporal Shift GAN for Large Scale Video Generation",
+    [
+      "Andres Munoz",
+      "Mohammadreza Zolfaghari",
+      "Max Argus",
+      "Thomas Brox"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Munoz_Temporal_Shift_GAN_for_Large_Scale_Video_Generation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Munoz_Temporal_Shift_GAN_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2004.01823"
+    ]
+  ],
+  [
+    "Only Time Can Tell: Discovering Temporal Data for Temporal Modeling",
+    [
+      "Laura Sevilla-Lara",
+      "Shengxin Zha",
+      "Zhicheng Yan",
+      "Vedanuj Goswami",
+      "Matt Feiszli",
+      "Lorenzo Torresani"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sevilla-Lara_Only_Time_Can_Tell_Discovering_Temporal_Data_for_Temporal_Modeling_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Data-Efficient Alignment of Multimodal Sequences by Aligning Gradient Updates and Internal Feature Distributions",
+    [
+      "Jianan Wang",
+      "Boyang Li",
+      "Xiangyu Fan",
+      "Jing Lin",
+      "Yanwei Fu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Data-Efficient_Alignment_of_Multimodal_Sequences_by_Aligning_Gradient_Updates_and_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wang_Data-Efficient_Alignment_of_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.07517"
+    ]
+  ],
+  [
+    "Are These From the Same Place? Seeing the Unseen in Cross-View Image Geo-Localization",
+    [
+      "Royston Rodrigues",
+      "Masahiro Tani"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rodrigues_Are_These_From_the_Same_Place_Seeing_the_Unseen_in_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "DualSR: Zero-Shot Dual Learning for Real-World Super-Resolution",
+    [
+      "Mohammad Emad",
+      "Maurice Peemen",
+      "Henk Corporaal"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Emad_DualSR_Zero-Shot_Dual_Learning_for_Real-World_Super-Resolution_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Emad_DualSR_Zero-Shot_Dual_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Subsurface Pipes Detection Using DNN-Based Back Projection on GPR Data",
+    [
+      "Jinglun Feng",
+      "Liang Yang",
+      "Haiyan Wang",
+      "Yingli Tian",
+      "Jizhong Xiao"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Feng_Subsurface_Pipes_Detection_Using_DNN-Based_Back_Projection_on_GPR_Data_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Adaptive-Attentive Geolocalization From Few Queries: A Hybrid Approach",
+    [
+      "Gabriele Moreno Berton",
+      "Valerio Paolicelli",
+      "Carlo Masone",
+      "Barbara Caputo"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Berton_Adaptive-Attentive_Geolocalization_From_Few_Queries_A_Hybrid_Approach_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Berton_Adaptive-Attentive_Geolocalization_From_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.06897"
+    ]
+  ],
+  [
+    "S-VVAD: Visual Voice Activity Detection by Motion Segmentation",
+    [
+      "Muhammad Shahid",
+      "Cigdem Beyan",
+      "Vittorio Murino"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Shahid_S-VVAD_Visual_Voice_Activity_Detection_by_Motion_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Shahid_S-VVAD_Visual_Voice_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Deep Poisoning: Towards Robust Image Data Sharing Against Visual Disclosure",
+    [
+      "Hao Guo",
+      "Brian Dolhansky",
+      "Eric Hsin",
+      "Phong Dinh",
+      "Cristian Canton Ferrer",
+      "Song Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Guo_Deep_Poisoning_Towards_Robust_Image_Data_Sharing_Against_Visual_Disclosure_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1912.06895"
+    ]
+  ],
+  [
+    "RODNet: Radar Object Detection Using Cross-Modal Supervision",
+    [
+      "Yizhou Wang",
+      "Zhongyu Jiang",
+      "Xiangyu Gao",
+      "Jenq-Neng Hwang",
+      "Guanbin Xing",
+      "Hui Liu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_RODNet_Radar_Object_Detection_Using_Cross-Modal_Supervision_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Assessing Image and Text Generation With Topological Analysis and Fuzzy Logic",
+    [
+      "Goncalo Mordido",
+      "Julian Niedermeier",
+      "Christoph Meinel"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mordido_Assessing_Image_and_Text_Generation_With_Topological_Analysis_and_Fuzzy_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mordido_Assessing_Image_and_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "R-MNet: A Perceptual Adversarial Network for Image Inpainting",
+    [
+      "Jireh Jam",
+      "Connah Kendrick",
+      "Vincent Drouard",
+      "Kevin Walker",
+      "Gee-Sern Hsu",
+      "Moi Hoon Yap"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Jam_R-MNet_A_Perceptual_Adversarial_Network_for_Image_Inpainting_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Representation Learning With Statistical Independence to Mitigate Bias",
+    [
+      "Ehsan Adeli",
+      "Qingyu Zhao",
+      "Adolf Pfefferbaum",
+      "Edith V. Sullivan",
+      "Li Fei-Fei",
+      "Juan Carlos Niebles",
+      "Kilian M. Pohl"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Adeli_Representation_Learning_With_Statistical_Independence_to_Mitigate_Bias_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1910.03676"
+    ]
+  ],
+  [
+    "G2D: Generate to Detect Anomaly",
+    [
+      "Masoud Pourreza",
+      "Bahram Mohammadi",
+      "Mostafa Khaki",
+      "Samir Bouindour",
+      "Hichem Snoussi",
+      "Mohammad Sabokrou"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Pourreza_G2D_Generate_to_Detect_Anomaly_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.11629"
+    ]
+  ],
+  [
+    "Compositional Embeddings for Multi-Label One-Shot Learning",
+    [
+      "Zeqian Li",
+      "Michael Mozer",
+      "Jacob Whitehill"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Compositional_Embeddings_for_Multi-Label_One-Shot_Learning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Li_Compositional_Embeddings_for_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2002.04193"
+    ]
+  ],
+  [
+    "Focus and Retain: Complement the Broken Pose in Human Image Synthesis",
+    [
+      "Pu Ge",
+      "Qiushi Huang",
+      "Wei Xiang",
+      "Xue Jing",
+      "Yule Li",
+      "Yiyong Li",
+      "Zhun Sun"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ge_Focus_and_Retain_Complement_the_Broken_Pose_in_Human_Image_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "MeliusNet: An Improved Network Architecture for Binary Neural Networks",
+    [
+      "Joseph Bethge",
+      "Christian Bartz",
+      "Haojin Yang",
+      "Ying Chen",
+      "Christoph Meinel"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bethge_MeliusNet_An_Improved_Network_Architecture_for_Binary_Neural_Networks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Bethge_MeliusNet_An_Improved_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Facial Expression Recognition in the Wild via Deep Attentive Center Loss",
+    [
+      "Amir Hossein Farzaneh",
+      "Xiaojun Qi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Farzaneh_Facial_Expression_Recognition_in_the_Wild_via_Deep_Attentive_Center_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Attentional Feature Fusion",
+    [
+      "Yimian Dai",
+      "Fabian Gieseke",
+      "Stefan Oehmcke",
+      "Yiquan Wu",
+      "Kobus Barnard"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Dai_Attentional_Feature_Fusion_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dai_Attentional_Feature_Fusion_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.14082"
+    ]
+  ],
+  [
+    "DeepCFL: Deep Contextual Features Learning From a Single Image",
+    [
+      "Indra Deep Mastan",
+      "Shanmuganathan Raman"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mastan_DeepCFL_Deep_Contextual_Features_Learning_From_a_Single_Image_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mastan_DeepCFL_Deep_Contextual_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.03712"
+    ]
+  ],
+  [
+    "Accelerated WGAN Update Strategy With Loss Change Rate Balancing",
+    [
+      "Xu Ouyang",
+      "Ying Chen",
+      "Gady Agam"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ouyang_Accelerated_WGAN_Update_Strategy_With_Loss_Change_Rate_Balancing_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks",
+    [
+      "Alice Xue"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Xue_End-to-End_Chinese_Landscape_Painting_Creation_Using_Generative_Adversarial_Networks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Xue_End-to-End_Chinese_Landscape_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.05552"
+    ]
+  ],
+  [
+    "Coarse Temporal Attention Network (CTA-Net) for Driver's Activity Recognition",
+    [
+      "Zachary Wharton",
+      "Ardhendu Behera",
+      "Yonghuai Liu",
+      "Nik Bessis"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wharton_Coarse_Temporal_Attention_Network_CTA-Net_for_Drivers_Activity_Recognition_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Wharton_Coarse_Temporal_Attention_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Defense-Friendly Images in Adversarial Attacks: Dataset and Metrics for Perturbation Difficulty",
+    [
+      "Camilo Pestana",
+      "Wei Liu",
+      "David Glance",
+      "Ajmal Mian"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Pestana_Defense-Friendly_Images_in_Adversarial_Attacks_Dataset_and_Metrics_for_Perturbation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.02675"
+    ]
+  ],
+  [
+    "DANCE: A Deep Attentive Contour Model for Efficient Instance Segmentation",
+    [
+      "Zichen Liu",
+      "Jun Hao Liew",
+      "Xiangyu Chen",
+      "Jiashi Feng"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_DANCE_A_Deep_Attentive_Contour_Model_for_Efficient_Instance_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Liu_DANCE_A_Deep_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Holistic Filter Pruning for Efficient Deep Neural Networks",
+    [
+      "Lukas Enderich",
+      "Fabian Timm",
+      "Wolfram Burgard"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Enderich_Holistic_Filter_Pruning_for_Efficient_Deep_Neural_Networks_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Enderich_Holistic_Filter_Pruning_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2009.08169"
+    ]
+  ],
+  [
+    "Learning to Generate Dense Point Clouds With Textures on Multiple Categories",
+    [
+      "Tao Hu",
+      "Geng Lin",
+      "Zhizhong Han",
+      "Matthias Zwicker"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hu_Learning_to_Generate_Dense_Point_Clouds_With_Textures_on_Multiple_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hu_Learning_to_Generate_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1912.10545"
+    ]
+  ],
+  [
+    "Same Same but DifferNet: Semi-Supervised Defect Detection With Normalizing Flows",
+    [
+      "Marco Rudolph",
+      "Bastian Wandt",
+      "Bodo Rosenhahn"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Rudolph_Same_Same_but_DifferNet_Semi-Supervised_Defect_Detection_With_Normalizing_Flows_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2008.12577"
+    ]
+  ],
+  [
+    "Weakly-Supervised Object Representation Learning for Few-Shot Semantic Segmentation",
+    [
+      "Xiaowen Ying",
+      "Xin Li",
+      "Mooi Choo Chuah"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ying_Weakly-Supervised_Object_Representation_Learning_for_Few-Shot_Semantic_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ying_Weakly-Supervised_Object_Representation_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "SubICap: Towards Subword-Informed Image Captioning",
+    [
+      "Naeha Sharif",
+      "Mohammed Bennamoun",
+      "Wei Liu",
+      "Syed Afaq Ali Shah"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sharif_SubICap_Towards_Subword-Informed_Image_Captioning_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Sharif_SubICap_Towards_Subword-Informed_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2012.13122"
+    ]
+  ],
+  [
+    "Faces a la Carte: Text-to-Face Generation via Attribute Disentanglement",
+    [
+      "Tianren Wang",
+      "Teng Zhang",
+      "Brian Lovell"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Faces_a_la_Carte_Text-to-Face_Generation_via_Attribute_Disentanglement_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2006.07606"
+    ]
+  ],
+  [
+    "Scaling Digital Screen Reading With One-Shot Learning and Re-Identification",
+    [
+      "James Charles",
+      "Stefano Bucciarelli",
+      "Roberto Cipolla"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Charles_Scaling_Digital_Screen_Reading_With_One-Shot_Learning_and_Re-Identification_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Unsupervised Attention Based Instance Discriminative Learning for Person Re-Identification",
+    [
+      "Kshitij Nikhal",
+      "Benjamin S. Riggan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nikhal_Unsupervised_Attention_Based_Instance_Discriminative_Learning_for_Person_Re-Identification_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Nikhal_Unsupervised_Attention_Based_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.01888"
+    ]
+  ],
+  [
+    "On the Texture Bias for Few-Shot CNN Segmentation",
+    [
+      "Reza Azad",
+      "Abdur R. Fayjie",
+      "Claude Kauffmann",
+      "Ismail Ben Ayed",
+      "Marco Pedersoli",
+      "Jose Dolz"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Azad_On_the_Texture_Bias_for_Few-Shot_CNN_Segmentation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Azad_On_the_Texture_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Revisiting Street-to-Aerial View Image Geo-Localization and Orientation Estimation",
+    [
+      "Sijie Zhu",
+      "Taojiannan Yang",
+      "Chen Chen"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_Revisiting_Street-to-Aerial_View_Image_Geo-Localization_and_Orientation_Estimation_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2005.11592"
+    ]
+  ],
+  [
+    "Appending Adversarial Frames for Universal Video Attack",
+    [
+      "Zhikai Chen",
+      "Lingxi Xie",
+      "Shanmin Pang",
+      "Yong He",
+      "Qi Tian"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Chen_Appending_Adversarial_Frames_for_Universal_Video_Attack_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Chen_Appending_Adversarial_Frames_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1912.04538"
+    ]
+  ],
+  [
+    "WDNet: Watermark-Decomposition Network for Visible Watermark Removal",
+    [
+      "Yang Liu",
+      "Zhen Zhu",
+      "Xiang Bai"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_WDNet_Watermark-Decomposition_Network_for_Visible_Watermark_Removal_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.07616"
+    ]
+  ],
+  [
+    "High-Quality Frame Interpolation via Tridirectional Inference",
+    [
+      "Jinsoo Choi",
+      "Jaesik Park",
+      "In So Kweon"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Choi_High-Quality_Frame_Interpolation_via_Tridirectional_Inference_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "DualSANet: Dual Spatial Attention Network for Iris Recognition",
+    [
+      "Kai Yang",
+      "Zihao Xu",
+      "Jingjing Fei"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Yang_DualSANet_Dual_Spatial_Attention_Network_for_Iris_Recognition_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Joint Visual-Temporal Embedding for Unsupervised Learning of Actions in Untrimmed Sequences",
+    [
+      "Rosaura G. VidalMata",
+      "Walter J. Scheirer",
+      "Anna Kukleva",
+      "David Cox",
+      "Hilde Kuehne"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/VidalMata_Joint_Visual-Temporal_Embedding_for_Unsupervised_Learning_of_Actions_in_Untrimmed_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2001.11122"
+    ]
+  ],
+  [
+    "Efficient Video Annotation With Visual Interpolation and Frame Selection Guidance",
+    [
+      "Alina Kuznetsova",
+      "Aakrati Talati",
+      "Yiwen Luo",
+      "Keith Simmons",
+      "Vittorio Ferrari"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kuznetsova_Efficient_Video_Annotation_With_Visual_Interpolation_and_Frame_Selection_Guidance_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2012.12554"
+    ]
+  ],
+  [
+    "DocVQA: A Dataset for VQA on Document Images",
+    [
+      "Minesh Mathew",
+      "Dimosthenis Karatzas",
+      "C.V. Jawahar"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Mathew_DocVQA_A_Dataset_for_VQA_on_Document_Images_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Mathew_DocVQA_A_Dataset_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2007.00398"
+    ]
+  ],
+  [
+    "FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age for Bias Measurement and Mitigation",
+    [
+      "Kimmo Karkkainen",
+      "Jungseock Joo"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Karkkainen_FairFace_Face_Attribute_Dataset_for_Balanced_Race_Gender_and_Age_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Karkkainen_FairFace_Face_Attribute_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "CPM R-CNN: Calibrating Point-Guided Misalignment in Object Detection",
+    [
+      "Bin Zhu",
+      "Qing Song",
+      "Lu Yang",
+      "Zhihui Wang",
+      "Chun Liu",
+      "Mengjie Hu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhu_CPM_R-CNN_Calibrating_Point-Guided_Misalignment_in_Object_Detection_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Revisiting Adaptive Convolutions for Video Frame Interpolation",
+    [
+      "Simon Niklaus",
+      "Long Mai",
+      "Oliver Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Niklaus_Revisiting_Adaptive_Convolutions_for_Video_Frame_Interpolation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Niklaus_Revisiting_Adaptive_Convolutions_WACV_2021_supplemental.zip",
+      "http://arxiv.org/abs/2011.01280"
+    ]
+  ],
+  [
+    "Do We Really Need Gold Samples for Sample Weighting Under Label Noise?",
+    [
+      "Aritra Ghosh",
+      "Andrew Lan"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ghosh_Do_We_Really_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Part Segmentation of Unseen Objects Using Keypoint Guidance",
+    [
+      "Shujon Naha",
+      "Qingyang Xiao",
+      "Prianka Banik",
+      "Md. Alimoor Reza",
+      "David J. Crandall"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Naha_Part_Segmentation_of_Unseen_Objects_Using_Keypoint_Guidance_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Intra-Class Part Swapping for Fine-Grained Image Classification",
+    [
+      "Lianbo Zhang",
+      "Shaoli Huang",
+      "Wei Liu"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Intra-Class_Part_Swapping_for_Fine-Grained_Image_Classification_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Rotate to Attend: Convolutional Triplet Attention Module",
+    [
+      "Diganta Misra",
+      "Trikay Nalamada",
+      "Ajay Uppili Arasanipalai",
+      "Qibin Hou"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Misra_Rotate_to_Attend_Convolutional_Triplet_Attention_Module_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Misra_Rotate_to_Attend_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.03045"
+    ]
+  ],
+  [
+    "A Deflation Based Fast and Robust Preconditioner for Bundle Adjustment",
+    [
+      "Shrutimoy Das",
+      "Siddhant Katyan",
+      "Pawan Kumar"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Das_A_Deflation_Based_Fast_and_Robust_Preconditioner_for_Bundle_Adjustment_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Integrating Human Gaze Into Attention for Egocentric Activity Recognition",
+    [
+      "Kyle Min",
+      "Jason J. Corso"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Min_Integrating_Human_Gaze_Into_Attention_for_Egocentric_Activity_Recognition_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Min_Integrating_Human_Gaze_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.03920"
+    ]
+  ],
+  [
+    "StressNet: Detecting Stress in Thermal Videos",
+    [
+      "Satish Kumar",
+      "A S M Iftekhar",
+      "Michael Goebel",
+      "Tom Bullock",
+      "Mary H. MacLean",
+      "Michael B. Miller",
+      "Tyler Santander",
+      "Barry Giesbrecht",
+      "Scott T. Grafton",
+      "B.S. Manjunath"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kumar_StressNet_Detecting_Stress_in_Thermal_Videos_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.09540"
+    ]
+  ],
+  [
+    "Driver Anomaly Detection: A Dataset and Contrastive Learning Approach",
+    [
+      "Okan Kopuklu",
+      "Jiapeng Zheng",
+      "Hang Xu",
+      "Gerhard Rigoll"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2009.14660"
+    ]
+  ],
+  [
+    "TResNet: High Performance GPU-Dedicated Architecture",
+    [
+      "Tal Ridnik",
+      "Hussam Lawen",
+      "Asaf Noy",
+      "Emanuel Ben Baruch",
+      "Gilad Sharir",
+      "Itamar Friedman"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ridnik_TResNet_High_Performance_GPU-Dedicated_Architecture_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2003.13630"
+    ]
+  ],
+  [
+    "The MECCANO Dataset: Understanding Human-Object Interactions From Egocentric Videos in an Industrial-Like Domain",
+    [
+      "Francesco Ragusa",
+      "Antonino Furnari",
+      "Salvatore Livatino",
+      "Giovanni Maria Farinella"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Ragusa_The_MECCANO_Dataset_Understanding_Human-Object_Interactions_From_Egocentric_Videos_in_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Ragusa_The_MECCANO_Dataset_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.05654"
+    ]
+  ],
+  [
+    "Towards Enhancing Fine-Grained Details for Image Matting",
+    [
+      "Chang Liu",
+      "Henghui Ding",
+      "Xudong Jiang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Towards_Enhancing_Fine-Grained_Details_for_Image_Matting_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "SHAD3S: A Model to Sketch, Shade and Shadow",
+    [
+      "Raghav Brahmadesam Venkataramaiyer",
+      "Abhishek Joshi",
+      "Saisha Narang",
+      "Vinay P. Namboodiri"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Venkataramaiyer_SHAD3S_A_Model_to_Sketch_Shade_and_Shadow_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Venkataramaiyer_SHAD3S_A_Model_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2011.06822"
+    ]
+  ],
+  [
+    "Learning Shape Representations for Person Re-Identification Under Clothing Change",
+    [
+      "Yu-Jhe Li",
+      "Xinshuo Weng",
+      "Kris M. Kitani"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Learning_Shape_Representations_for_Person_Re-Identification_Under_Clothing_Change_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Improved Techniques for Training Single-Image GANs",
+    [
+      "Tobias Hinz",
+      "Matthew Fisher",
+      "Oliver Wang",
+      "Stefan Wermter"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Hinz_Improved_Techniques_for_Training_Single-Image_GANs_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Hinz_Improved_Techniques_for_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2003.11512"
+    ]
+  ],
+  [
+    "Visual Tracking of Deepwater Animals Using Machine Learning-Controlled Robotic Underwater Vehicles",
+    [
+      "Kakani Katija",
+      "Paul L. D. Roberts",
+      "Joost Daniels",
+      "Alexandra Lapides",
+      "Kevin Barnard",
+      "Mike Risi",
+      "Ben Y. Ranaan",
+      "Benjamin G. Woodward",
+      "Jonathan Takahashi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Katija_Visual_Tracking_of_Deepwater_Animals_Using_Machine_Learning-Controlled_Robotic_Underwater_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Katija_Visual_Tracking_of_WACV_2021_supplemental.zip"
+    ]
+  ],
+  [
+    "Few-Shot Font Style Transfer Between Different Languages",
+    [
+      "Chenhao Li",
+      "Yuta Taniguchi",
+      "Min Lu",
+      "Shin'ichi Konomi"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Few-Shot_Font_Style_Transfer_Between_Different_Languages_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Li_Few-Shot_Font_Style_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "A Learning-Based Approach to Parametric Rotoscoping of Multi-Shape Systems",
+    [
+      "Luis Bermudez",
+      "Nadine Dabby",
+      "Yingxi Adelle Lin",
+      "Sara Hilmarsdottir",
+      "Narayan Sundararajan",
+      "Swarnendu Kar"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Bermudez_A_Learning-Based_Approach_to_Parametric_Rotoscoping_of_Multi-Shape_Systems_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Bermudez_A_Learning-Based_Approach_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Task-Assisted Domain Adaptation With Anchor Tasks",
+    [
+      "Zhizhong Li",
+      "Linjie Luo",
+      "Sergey Tulyakov",
+      "Qieyun Dai",
+      "Derek Hoiem"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Li_Task-Assisted_Domain_Adaptation_With_Anchor_Tasks_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/1908.06079"
+    ]
+  ],
+  [
+    "Towards Fair Cross-Domain Adaptation via Generative Learning",
+    [
+      "Tongxin Wang",
+      "Zhengming Ding",
+      "Wei Shao",
+      "Haixu Tang",
+      "Kun Huang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Towards_Fair_Cross-Domain_Adaptation_via_Generative_Learning_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2003.02366"
+    ]
+  ],
+  [
+    "Neuron Matching in C. elegans With Robust Approximate Linear Regression Without Correspondence",
+    [
+      "Amin Nejatbakhsh",
+      "Erdem Varol"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Nejatbakhsh_Neuron_Matching_in_C._elegans_With_Robust_Approximate_Linear_Regression_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Nejatbakhsh_Neuron_Matching_in_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "H2O-Net: Self-Supervised Flood Segmentation via Adversarial Domain Adaptation and Label Refinement",
+    [
+      "Peri Akiva",
+      "Matthew Purri",
+      "Kristin Dana",
+      "Beth Tellman",
+      "Tyler Anderson"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Akiva_H2O-Net_Self-Supervised_Flood_Segmentation_via_Adversarial_Domain_Adaptation_and_Label_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Akiva_H2O-Net_Self-Supervised_Flood_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "EvidentialMix: Learning With Combined Open-Set and Closed-Set Noisy Labels",
+    [
+      "Ragav Sachdeva",
+      "Filipe R. Cordeiro",
+      "Vasileios Belagiannis",
+      "Ian Reid",
+      "Gustavo Carneiro"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Sachdeva_EvidentialMix_Learning_With_Combined_Open-Set_and_Closed-Set_Noisy_Labels_WACV_2021_paper.pdf",
+      "http://arxiv.org/abs/2011.05704"
+    ]
+  ],
+  [
+    "Facial Emotion Recognition With Noisy Multi-Task Annotations",
+    [
+      "Siwei Zhang",
+      "Zhiwu Huang",
+      "Danda Pani Paudel",
+      "Luc Van Gool"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Zhang_Facial_Emotion_Recognition_With_Noisy_Multi-Task_Annotations_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Zhang_Facial_Emotion_Recognition_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/2010.09849"
+    ]
+  ],
+  [
+    "Fast Kernelized Correlation Filter Without Boundary Effect",
+    [
+      "Ming Tang",
+      "Linyu Zheng",
+      "Bin Yu",
+      "Jinqiao Wang"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Tang_Fast_Kernelized_Correlation_Filter_Without_Boundary_Effect_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Tang_Fast_Kernelized_Correlation_WACV_2021_supplemental.pdf",
+      "http://arxiv.org/abs/1806.06406"
+    ]
+  ],
+  [
+    "PDAN: Pyramid Dilated Attention Network for Action Detection",
+    [
+      "Rui Dai",
+      "Srijan Das",
+      "Luca Minciullo",
+      "Lorenzo Garattoni",
+      "Gianpiero Francesca",
+      "Francois Bremond"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Dai_PDAN_Pyramid_Dilated_Attention_Network_for_Action_Detection_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Dai_PDAN_Pyramid_Dilated_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "ChartOCR: Data Extraction From Charts Images via a Deep Hybrid Framework",
+    [
+      "Junyu Luo",
+      "Zekun Li",
+      "Jinpeng Wang",
+      "Chin-Yew Lin"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Luo_ChartOCR_Data_Extraction_From_Charts_Images_via_a_Deep_Hybrid_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Luo_ChartOCR_Data_Extraction_WACV_2021_supplemental.pdf"
+    ]
+  ],
+  [
+    "Shape From Semantic Segmentation via the Geometric Renyi Divergence",
+    [
+      "Tatsuro Koizumi",
+      "William A. P. Smith"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Koizumi_Shape_From_Semantic_Segmentation_via_the_Geometric_Renyi_Divergence_WACV_2021_paper.pdf"
+    ]
+  ],
+  [
+    "Unsupervised Multi-Target Domain Adaptation Through Knowledge Distillation",
+    [
+      "Le Thanh Nguyen-Meidine",
+      "Atif Belal",
+      "Madhu Kiran",
+      "Jose Dolz",
+      "Louis-Antoine Blais-Morin",
+      "Eric Granger"
+    ],
+    [
+      "https://openaccess.thecvf.com/content/WACV2021/papers/Le_Thanh_Nguyen-Meidine_Unsupervised_Multi-Target_Domain_Adaptation_Through_Knowledge_Distillation_WACV_2021_paper.pdf",
+      "https://openaccess.thecvf.com/content/WACV2021/supplemental/Le_Thanh_Nguyen-Meidine_Unsupervised_Multi-Target_Domain_WACV_2021_supplemental.pdf"
+    ]
+  ]
+]

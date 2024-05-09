@@ -8,6 +8,8 @@ import nltk
 import numpy as np
 from wordcloud import WordCloud
 
+RANDOM_SEED = 112358
+
 
 def vis_infos(conf_name, stopwords, mergewords, num_keywords, save_dir):
     with open(f"list/{conf_name}-list.json", mode="r", encoding="utf-8") as f:
@@ -53,7 +55,16 @@ def vis_infos(conf_name, stopwords, mergewords, num_keywords, save_dir):
     plt.savefig(f"{save_dir}/{conf_name}-freq.png", bbox_inches="tight", pad_inches=0, dpi=600, format="png")
 
     plt.figure(figsize=(16, 4))
-    wc = WordCloud(max_font_size=64, max_words=160, width=1280, height=640, background_color="white")
+    wc = WordCloud(
+        max_font_size=64,
+        max_words=160,
+        width=1280,
+        height=480,
+        contour_color="black",
+        background_color="white",
+        normalize_plurals=False,
+        random_state=RANDOM_SEED,
+    )
     wc.generate(" ".join(keyword_list))
     plt.imshow(wc, interpolation="bilinear")
     plt.xticks([])
@@ -67,7 +78,20 @@ def main():
     os.makedirs(save_dir, exist_ok=True)
 
     num_keywords = 75
-    conf_names = ["CVPR2021", "CVPR2022", "CVPR2023", "CVPR2024"]
+    conf_names = [
+        "CVPR2021",
+        "CVPR2022",
+        "CVPR2023",
+        "CVPR2024",
+        #
+        "WACV2021",
+        "WACV2022",
+        "WACV2023",
+        "WACV2024",
+        #
+        "ICCV2021",
+        "ICCV2023",
+    ]
     mergewords = OrderedDict({r"re-identification|re-id": "re-identification"})
     stopwords = [
         "deep",
@@ -75,6 +99,8 @@ def main():
         "neural",
         "network",
         "networks",
+        "model",
+        "models",
         "convolutional",
         "via",
         "with",
