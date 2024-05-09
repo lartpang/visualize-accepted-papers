@@ -1,7 +1,6 @@
 import json
 import os
 
-import nltk
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -34,14 +33,10 @@ def get_papers_from_cvf(wd, save_dir):
 
         paper_infos = []
         for i, title in enumerate(titles):
-            authors = [
-                e.text for e in author_links[2 * i].find_elements(By.TAG_NAME, "a")
-            ]
+            authors = [e.text for e in author_links[2 * i].find_elements(By.TAG_NAME, "a")]
             links = [
                 e.get_attribute("href")
-                for e in author_links[2 * i + 1].find_elements(
-                    By.XPATH, './/a[not(parent::div[@class="link2"])]'
-                )
+                for e in author_links[2 * i + 1].find_elements(By.XPATH, './/a[not(parent::div[@class="link2"])]')
             ]
             info = (title.text, authors, links)
             print(f"[{i}/{len(titles)}] {info[0]}")
@@ -70,10 +65,7 @@ def get_papers_for_cvpr2024(wd, save_dir):
         paper_infos = []
         for i, paper_row in enumerate(paper_rows):
             title = paper_row.find_element(By.XPATH, ".//strong|.//a").text
-            authors = [
-                s.strip()
-                for s in paper_row.find_element(By.TAG_NAME, "i").text.split("·")
-            ]
+            authors = [s.strip() for s in paper_row.find_element(By.TAG_NAME, "i").text.split("·")]
             info = (title, authors)
 
             print(f"[{i}/{len(paper_rows)}] {info}")
@@ -89,9 +81,7 @@ def main():
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
-    chrome_options.add_experimental_option(
-        "excludeSwitches", ["enable-logging", "disable-popup-blocking"]
-    )
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-logging", "disable-popup-blocking"])
     wd = webdriver.Chrome(options=chrome_options)
 
     save_dir = "./list"
@@ -104,6 +94,4 @@ def main():
 
 
 if __name__ == "__main__":
-    nltk.download("stopwords")
-
     main()

@@ -5,18 +5,24 @@ Statistics and Visualization of acceptance information, main keyword of CVPR 202
 ## Usage
 
 ```shell
+# download the paper information list from the official website
 python downloader.py
+# visualize the paper information list
 python visualizer.py
 ```
 
 ## Results
 
-| Conference |          Frequency           |         Word Cloud         |
-| :--------: | :--------------------------: | :------------------------: |
-|  CVPR2021  | ![](./vis/CVPR2021-freq.png) | ![](./vis/CVPR2021-wc.png) |
-|  CVPR2022  | ![](./vis/CVPR2022-freq.png) | ![](./vis/CVPR2022-wc.png) |
-|  CVPR2023  | ![](./vis/CVPR2023-freq.png) | ![](./vis/CVPR2023-wc.png) |
-|  CVPR2024  | ![](./vis/CVPR2024-freq.png) | ![](./vis/CVPR2024-wc.png) |
+|    Conference     |        Visualization         |
+| :---------------: | :--------------------------: |
+| CVPR2021 Keywords | ![](./vis/CVPR2021-freq.png) |
+| CVPR2021 Keywords |  ![](./vis/CVPR2021-wc.png)  |
+| CVPR2022 Keywords | ![](./vis/CVPR2022-freq.png) |
+| CVPR2022 Keywords |  ![](./vis/CVPR2022-wc.png)  |
+| CVPR2023 Keywords | ![](./vis/CVPR2023-freq.png) |
+| CVPR2023 Keywords |  ![](./vis/CVPR2023-wc.png)  |
+| CVPR2024 Keywords | ![](./vis/CVPR2024-freq.png) |
+| CVPR2024 Keywords |  ![](./vis/CVPR2024-wc.png)  |
 
 
 ## Reference
