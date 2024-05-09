@@ -12,9 +12,9 @@ def get_papers_from_cvf(wd, save_dir):
         "WACV2023": "https://openaccess.thecvf.com/WACV2023",
         "WACV2024": "https://openaccess.thecvf.com/WACV2024",
         #
-        # "CVPR2021": "https://openaccess.thecvf.com/CVPR2021?day=all",
-        # "CVPR2022": "https://openaccess.thecvf.com/CVPR2022?day=all",
-        # "CVPR2023": "https://openaccess.thecvf.com/CVPR2023?day=all",
+        "CVPR2021": "https://openaccess.thecvf.com/CVPR2021?day=all",
+        "CVPR2022": "https://openaccess.thecvf.com/CVPR2022?day=all",
+        "CVPR2023": "https://openaccess.thecvf.com/CVPR2023?day=all",
         #
         "ICCV2021": "https://openaccess.thecvf.com/ICCV2021?day=all",
         "ICCV2023": "https://openaccess.thecvf.com/ICCV2023?day=all",
